@@ -36,7 +36,7 @@ import { Store } from "../Store";
                 const fetchData = async () => {
                     dispatch({ type: 'FETCH_REQUEST' });
                     try {
-                        const result = await axios.get('/api/dommagbadges');
+                        const result = await axios.get(`/api/dommagbadges`);
                         dispatch({ type: 'FETCH_SUCCESS', payload: result.data });
                     } catch (err) {
                         dispatch({ type: 'FETCH_FAIL', payload: err.message });

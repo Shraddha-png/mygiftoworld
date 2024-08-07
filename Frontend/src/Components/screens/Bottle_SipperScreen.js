@@ -259,7 +259,7 @@ function BottleSipperScreen() {
                 <div className="mt-5">
                     <h4 className="relatedspro">RELATED PRODUCTS</h4>
                 </div>
-                    <Bottlesipper />
+                <Bottlesipper />
                 {/* Existing Reviews */}
                 <hr className="mt-1" />
                 <div className="container-fluid mt-4">

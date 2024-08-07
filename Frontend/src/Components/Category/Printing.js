@@ -26,7 +26,7 @@ function Printing() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/t-shirts">
-                                    <img className="card-img-top catimg" src="/images/T-shirts/Dry Fit Tshirts/cloth printing.jpeg" alt="Awards" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/T-shirts/Dry-Fit/cloth printing.jpeg" alt="T-shirt" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">
@@ -48,7 +48,7 @@ function Printing() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/PR">
-                                    <img className="card-img-top catimg" src="/images/Printing/project report/project report.jpeg" alt="Bags" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/Printing/project-report.jpeg" alt="project report" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">
@@ -79,7 +79,7 @@ function Printing() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/FlyerPamplate">
-                                    <img className="card-img-top catimg" src="/images/Printing/flyer_pamplate/Premium Vector _ Business flyer template with photo.jpeg" alt="Bags" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/Printing/flyer_pamplate/flyer.jpeg" alt="Pamplate" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">
@@ -101,7 +101,7 @@ function Printing() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/DP">
-                                    <img className="card-img-top catimg" src="/images/Printing/document printing/Premium Vector _ Letterhead.jpeg" alt="Awards" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/Printing/document-printing.jpeg" alt="Documents" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">
@@ -130,7 +130,7 @@ function Printing() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/magzine">
-                                    <img className="card-img-top catimg" src="/images/Printing/magzine/Catalogue SM Travel.jpeg" alt="Badges" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/Printing/magzine/magzine.jpeg" alt="Magzine" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">
@@ -153,7 +153,7 @@ function Printing() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/AR">
-                                    <img className="card-img-top catimg" src="/images/Printing/Annual Report/Clean Annual Report Brochure Template.jpeg" alt="Bags" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/Printing/Annual Report/annual-report.jpeg" alt="Bags" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">

@@ -37,7 +37,7 @@ function Stationary() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/plastic">
-                                    <img className="card-img-top catimg" src="/images/Stationery/Ballpoint Pen.jpeg" alt="Bags" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/Stationery/Ballpoint-Pen.jpeg" alt="Bags" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">
@@ -48,7 +48,7 @@ function Stationary() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/metal">
-                                    <img className="card-img-top catimg" src="/images/Stationery/Metal Pen.jpeg" alt="Bags" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/Stationery/Ballpoint-Pen-(2).jpeg" alt="Bags" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">
@@ -99,7 +99,7 @@ function Stationary() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/cardHolder">
-                                    <img className="card-img-top catimg" src="/images/card holder/Card Holder.jpeg" alt="Bags" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/card-holder/Card.jpeg" alt="Bags" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">
@@ -117,7 +117,7 @@ function Stationary() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/keyChains">
-                                    <img className="card-img-top catimg" src="/images/Keychain/Wooden Keychai07.webp" alt="Awards" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/Keychain/Wooden Keychai07.webp" alt="Keychain" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">
@@ -128,7 +128,7 @@ function Stationary() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/pencil">
-                                    <img className="card-img-top catimg" src="/images/Wodden  & Sustainable  items/Introducing Plantable Sprout Pencils!.jpeg" alt="Badges" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/Wodden_Sustainable_items/wooden-pencil (2).jpeg" alt="Pencil" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">
@@ -139,7 +139,7 @@ function Stationary() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/id_landyard">
-                                    <img className="card-img-top catimg" src="/images/IDs and Landyards/Event Badges Template.jpeg" alt="Bags" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/IDs/id-1.jpg" alt="Id Card" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title">

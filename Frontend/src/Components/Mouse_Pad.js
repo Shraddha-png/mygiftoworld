@@ -63,7 +63,7 @@ function Mousepad() {
                         <div className="row">
                             {mousepads.map((mousepad) => (
                                 <div className="col-md-3 mb-3" key={mousepad.slug}>
-                                    <div className="mousepad card mt-3 cardmouse">
+                                    <div className="mousepad card mt-3 cardhover p-3">
                                         <Link to={`/mousepad/${mousepad.slug}`}>
                                             <img src={mousepad.image} className="card-img-top cardimg" alt={mousepad.name} />
                                         </Link>

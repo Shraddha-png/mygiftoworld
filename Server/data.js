@@ -27,7 +27,7 @@ const data = {
             capacity: "120 ml",
             slug: "Tea and Coffee Mug-2",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/tea coffee-1.jpeg",
+            image: "/images/Mugs/Coffee/tea-coffee-1.jpeg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -42,7 +42,7 @@ const data = {
             category: "Mug",
             variety: "250ml",
             code: "01",
-            image: "/images/Mugs/Coffee Mugs/tea coffee -2.jpeg",
+            image: "/images/Mugs/Coffee/tea-coffee-2.jpeg",
             price: 0,
             countInStock: 50,
 
@@ -56,7 +56,7 @@ const data = {
             category: "Mug",
             variety: "250ml",
             code: "01",
-            image: "/images/Mugs/Coffee Mugs/tea coffee -3.jpeg",
+            image: "/images/Mugs/Coffee/tea-coffee-3.jpeg",
             price: 0,
             countInStock: 10,
 
@@ -68,7 +68,7 @@ const data = {
             capacity: "200 ml",
             slug: "Tea and Coffee Mug-5",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/tea coffee-4.jpeg",
+            image: "/images/Mugs/Coffee/tea-coffee-4.jpeg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -82,7 +82,7 @@ const data = {
             capacity: "200 ml",
             slug: "Tea and Coffee Mug-6",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/tea coffee -5.jpg",
+            image: "/images/Mugs/Coffee/tea-coffee-5.jpg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -96,7 +96,7 @@ const data = {
             capacity: "200 ml",
             slug: "Tea and Coffee Mug-7",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/tea coffee -6.jpeg",
+            image: "/images/Mugs/Coffee/tea-coffee-6.jpeg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -110,7 +110,7 @@ const data = {
             capacity: "200 ml",
             slug: "Tea and Coffee Mug-8",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/tea coffee -7.jpeg",
+            image: "/images/Mugs/Coffee/tea-coffee-7.jpeg",
             price: 0,
             countInStock: 10,
             variety: "250ml",
@@ -124,7 +124,7 @@ const data = {
             capacity: "200 ml",
             slug: "Tea and Coffee Mug-9",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/tea coffee-8.jpeg",
+            image: "/images/Mugs/Coffee/tea-coffee-8.jpeg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -138,7 +138,7 @@ const data = {
             capacity: "200 ml",
             slug: "Tea and Coffee Mug-10",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/tea coffee  -9.jpeg",
+            image: "/images/Mugs/Coffee/tea-coffee-9.jpeg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -152,7 +152,7 @@ const data = {
             capacity: "200 ml",
             slug: "Tea and Coffee Mug-11",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/tea coffee-10.jpeg",
+            image: "/images/Mugs/Coffee/tea-coffee-10.jpeg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -166,7 +166,7 @@ const data = {
             capacity: "200 ml",
             slug: "Tea and Coffee Mug-12",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/ECO FRIENDLY MUG.jpg",
+            image: "/images/Mugs/Coffee/ECO-FRIENDLY-MUG.jpg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -180,7 +180,7 @@ const data = {
             capacity: "150 ml",
             slug: "Tea and Coffee Mug-13",
             material: "Stainless Steel",
-            image: "/images/Mugs/Coffee Mugs/5680647.jpg",
+            image: "/images/Mugs/Coffee/5680647.jpg",
             category: "Mug",
             price: 0,
             variety: '200ml',
@@ -196,7 +196,7 @@ const data = {
             slug: "Tea and Coffee Mug-14",
             material: " Rice Husk",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/Screenshot 2024-01-16 093158.png",
+            image: "/images/Mugs/Coffee/mug-11.png",
             price: 0,
             variety: '200ml',
             code: '02',
@@ -210,7 +210,7 @@ const data = {
             slug: "Tea and Coffee Mug-15",
             material: "Stainless Steel",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/Screenshot 2023-12-18 132537.png",
+            image: "/images/Mugs/Coffee/mug-12.png",
             price: 0,
             variety: '200ml',
             code: '02',
@@ -224,7 +224,7 @@ const data = {
             slug: "Tea and Coffee Mug-16",
             material: "Stainless Steel",
             category: "Mug",
-            image: "/images/Mugs/Coffee Mugs/mug_v2_4.jpg",
+            image: "/images/Mugs/Coffee/mug-13.jpg",
             price: 0,
             variety: '200ml',
             code: '02',
@@ -241,7 +241,7 @@ const data = {
             name: 'Branding Desarrollo En El Campo Projects __ Photos, videos, logos, illustrations and branding',
             slug: "tshirts-1",
             category: "T-Shirt",
-            image: "/images/T shirt Printing/t-shirt1.jpeg",
+            image: "/images/Printing/t-shirt1.jpeg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -253,7 +253,7 @@ const data = {
             name: 'Sweatshirt weiss Gildan 18000 Mock up Mann Print on demand',
             slug: "tshirts-2",
             category: "T-Shirt",
-            image: "/images/T shirt Printing/t-shirts-2.jpeg",
+            image: "/images/Printing/t-shirts-2.jpeg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -265,7 +265,7 @@ const data = {
             name: 't_shirt collar cotton removebg preview',
             slug: "tshirts-3",
             category: "T-Shirt",
-            image: "/images/T shirt Printing/Kion.jpeg",
+            image: "/images/Printing/Kion.jpeg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -277,7 +277,7 @@ const data = {
             name: 'T-shirt 4',
             slug: "tshirts-5",
             category: "T-Shirt",
-            image: "/images/T shirt Printing/t-shirts-4.jpeg",
+            image: "/images/Printing/t-shirts-4.jpeg",
             price: 0,
             variety: "250ml",
             code: "01",
@@ -289,25 +289,13 @@ const data = {
             name: 'T-shirt 5',
             slug: "tshirts-6",
             category: "T-Shirt",
-            image: "/images/T shirt Printing/t-shirts6.jpg",
+            image: "/images/Printing/t-shirts6.jpg",
             price: 0,
             variety: "250ml",
             code: "01",
             countInStock: 10,
             description: "High Quality",
-        },
-        {
-            // _id: '4',
-            name: 'T-shirt 6',
-            slug: "tshirts-7",
-            category: "T-Shirt",
-            image: "/images/T shirt Printing/4 3D T-Shirt Mockups.jpeg",
-            price: 0,
-            variety: "250ml",
-            code: "01",
-            countInStock: 10,
-            description: "High Quality",
-        },
+        }
     ],
 
     frostedMugs: [
@@ -317,7 +305,7 @@ const data = {
             category: 'Mugs',
             capacity: '300 ml',
             material: 'Glass',
-            image: '/images/Mugs/frosted mugs/frosted mug-1.jpeg',
+            image: '/images/Mugs/frosted/frosted-mug-1.jpeg',
             price: 0,
             variety: "250ml",
             code: "01",
@@ -330,7 +318,7 @@ const data = {
             category: 'Mugs',
             capacity: '500 ml',
             material: 'Glass',
-            image: '/images/Mugs/frosted mugs/FROSTED BEER MUG.jpg',
+            image: '/images/Mugs/frosted/FROSTED-BEER-MUG.jpg',
             price: 0,
             variety: "250ml",
             code: "01",
@@ -343,7 +331,7 @@ const data = {
             category: 'Mugs',
             capacity: '500 ml',
             material: 'Glass',
-            image: '/images/Mugs/frosted mugs/Frosted Glass Mug Mockup.jpeg',
+            image: '/images/Mugs/frosted/Frosted-Glas- Mug-Mockup.jpeg',
             price: 0,
             variety: "250ml",
             code: "01",
@@ -356,7 +344,7 @@ const data = {
             category: 'Mugs',
             capacity: '500 ml',
             material: 'Glass',
-            image: '/images/Mugs/frosted mugs/frosted mug -2.jpeg',
+            image: '/images/Mugs/frosted/frosted-mug -2.jpeg',
             price: 0,
             variety: "250ml",
             code: "01",
@@ -372,7 +360,7 @@ const data = {
             slug: 'Awards-2',
             category: 'Mugs',
             material: 'Glass',
-            image: '/images/Awards/1 (51).jpeg',
+            image: '/images/Awards/award-3.jpeg',
             price: 0,
             variety: "-",
             code: "01",
@@ -422,7 +410,7 @@ const data = {
             slug: 'Badge-1',
             category: 'badge',
             material: 'Metal',
-            image: '/images/Name Badges/metal badge-1.jpeg',
+            image: '/images/Badges/metal-badge-1.jpeg',
             price: 26,
             variety: "250ml",
             code: "01",
@@ -435,7 +423,7 @@ const data = {
             slug: 'Badge-2',
             category: 'Badge',
             material: 'Metal',
-            image: '/images/Name Badges/Round badges/4 Free Pin Button Mockups (PSD).jpeg',
+            image: '/images/Badges/Custom Magnets - Badge Magnet.jpeg',
             price: 13,
             variety: "250ml",
             code: "01",
@@ -447,7 +435,7 @@ const data = {
             slug: 'Badge-3',
             category: 'Mugs',
             material: 'Glass',
-            image: '/images/Name Badges/metal badge-2.jpeg',
+            image: '/images/Badges/badge-2.jpeg',
             price: 26,
             variety: "250ml",
             code: "01",
@@ -459,7 +447,7 @@ const data = {
             slug: 'Badge-4',
             category: 'Mugs',
             material: 'Glass',
-            image: '/images/Name Badges/dom badge.jpeg',
+            image: '/images/Badges/dom-badge.jpeg',
             price: 26,
             variety: "250ml",
             code: "01",
@@ -471,7 +459,7 @@ const data = {
             slug: 'Badge-5',
             category: 'Mugs',
             material: 'Glass',
-            image: '/images/Name Badges/wooden badge.jpeg',
+            image: '/images/Badges/wooden-badge.jpeg',
             price: 26,
             variety: "250ml",
             code: "01",
@@ -483,7 +471,7 @@ const data = {
             slug: 'Badge-6',
             category: 'Mugs',
             material: 'Glass',
-            image: '/images/Name Badges/acrylic badge-1.png',
+            image: '/images/Badges/acrylic-badge-1.png',
             price: 26,
             variety: "250ml",
             code: "01",
@@ -499,7 +487,7 @@ const data = {
             slug: 'bag-1',
             category: 'bag',
             material: 'Jute',
-            image: '/images/Bags/Naturel Jute Bag.jpg',
+            image: '/images/Bags/Naturel-Jute-Bag.jpg',
             variety1: '12*12*6 Inch',
             variety2: '14*16*6 Inch',
             variety3: '-',
@@ -514,7 +502,7 @@ const data = {
             slug: 'bag-2',
             category: 'Jute bag',
             material: 'White Jute',
-            image: '/images/Bags/Tote Bag.jpg',
+            image: '/images/Bags/Tote-Bag.jpg',
             variety1: '12*12*6 inch',
             variety2: '14*16*6 Inch',
             variety3: '-',
@@ -529,7 +517,7 @@ const data = {
             slug: 'bag-3',
             category: ' Nylon bag',
             material: 'Nylon',
-            image: '/images/Bags/Naylon Bag.jpg',
+            image: '/images/Bags/Naylon.jpg',
             variety1: '8*12 Inch',
             variety2: '12*16 Inch',
             variety3: '-',
@@ -544,7 +532,7 @@ const data = {
             slug: 'bag-4',
             category: 'Nylon bag',
             material: 'Nylon',
-            image: '/images/Bags/Felt Bag.jpg',
+            image: '/images/Bags/Felt.jpg',
             variety1: '12*14*4 inch',
             variety2: '-',
             variety3: '-',
@@ -559,7 +547,7 @@ const data = {
             slug: 'bag-5',
             category: 'Jute bag',
             material: 'Jute',
-            image: '/images/Bags/Jute bags/JU-WHITTAPE_b.jpg',
+            image: '/images/Bags/Jute-bags/JU-WHITTAPE_b.jpg',
             variety1: '12*12*6 inch',
             variety2: '14*16*6 Inch',
             variety3: '-',
@@ -574,7 +562,7 @@ const data = {
             slug: 'bag-6',
             category: 'Tote bag',
             material: 'Tote',
-            image: '/images/Bags/Tote Bag Long Handle.jpg',
+            image: '/images/Bags/Tote-Bag-Long-Handle.jpg',
             variety1: '12*12*6 inch',
             variety2: '14*16*6',
             variety3: '-',
@@ -589,7 +577,7 @@ const data = {
             slug: 'bag-7',
             category: 'Tote bag',
             material: 'Tote',
-            image: '/images/Bags/Butterfly Tote Bag.jpeg',
+            image: '/images/Bags/Butterfly-Tote-Bag.jpeg',
             variety1: '12*12*6 inch',
             variety2: '14*16*6',
             variety3: '-',
@@ -604,7 +592,7 @@ const data = {
             slug: 'bag-8',
             category: 'Tote bag',
             material: 'Tote',
-            image: '/images/Bags/Custome Tote Bag.jpeg',
+            image: '/images/Bags/Custome-Tote-Bag.jpeg',
             variety1: '12*12*6 inch',
             variety2: '14*16*6',
             variety3: '-',
@@ -620,7 +608,7 @@ const data = {
             slug: 'nonwoven bag- 10',
             category: 'nonwoven',
             material: 'nonwoven',
-            image: '/images/Bags/Non woven bag-2.jpeg',
+            image: '/images/Bags/Non-woven-bag-2.jpeg',
             variety1: '12*12*6 inch',
             variety2: '14*16*6',
             variety3: '-',
@@ -635,7 +623,7 @@ const data = {
             slug: 'Paper bag- 12',
             category: 'paper bag',
             material: 'paper',
-            image: '/images/Bags/Paper bag/Ins fashion handbag.jpeg',
+            image: '/images/Bags/Paper-bag/fashion-handbag.jpeg',
             variety1: '12*12*6 inch',
             variety2: '14*16*6',
             variety3: '-',
@@ -680,7 +668,7 @@ const data = {
             slug: 'Mug-2',
             capacity: '200ml',
             material: 'Stainless Steel (Double layer)',
-            image: '/images/Mugs/SPILL PROOF MUG.jpg',
+            image: '/images/Mugs/SPILL-PROOF-MUG.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -692,7 +680,7 @@ const data = {
             slug: 'Mug-3',
             capacity: '150ml',
             material: 'Stainless Steel',
-            image: '/images/Mugs/INSULATED HOT & COLD MUG.jpg',
+            image: '/images/Mugs/INSULATED-HOT-&-COLD-MUG.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -704,7 +692,7 @@ const data = {
             slug: 'Mug-4',
             capacity: '150ml',
             material: 'Stainless Steel (Double layer)',
-            image: '/images/Mugs/SELF STIRRING MUG.jpg',
+            image: '/images/Mugs/SELF-STIRRING-MUG.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -716,7 +704,7 @@ const data = {
             slug: 'Mug-5',
             capacity: '180ml',
             material: 'Stainless Steel',
-            image: '/images/Mugs/WOODEN MUG.jpg',
+            image: '/images/Mugs/WOODEN-MUG.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -728,7 +716,7 @@ const data = {
             slug: 'Mug-6',
             capacity: '200ml',
             material: 'Stainless Steel',
-            image: '/images/Mugs/WOODEN COFFEE TUMBLER.jpg',
+            image: '/images/Mugs/WOODEN-COFFEE-TUMBLER.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -740,7 +728,7 @@ const data = {
             slug: 'Mug-7',
             capacity: '150ml',
             material: 'Stainless Steel',
-            image: '/images/Mugs/TRAVEL TUMBLER.jpg',
+            image: '/images/Mugs/TRAVEL-TUMBLER.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -752,7 +740,7 @@ const data = {
             slug: 'Mug-8',
             capacity: '300ml',
             material: 'Ceramic',
-            image: '/images/Mugs/TWO TONE SUBLIMATION MUG.jpg',
+            image: '/images/Mugs/TWO-TONE-SUBLIMATION-MUG.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -764,7 +752,7 @@ const data = {
             slug: 'Mug-9',
             capacity: '300ml',
             material: 'Ceramic',
-            image: '/images/Mugs/HEART SHAPED HANDLE.jpg',
+            image: '/images/Mugs/HEART-SHAPED-HANDLE.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -776,7 +764,7 @@ const data = {
             slug: 'Mug-10',
             capacity: '200ml',
             material: 'Stainless Steel (Double layer)',
-            image: '/images/Mugs/FULL WHITE SUBLIMATION MUG.jpg',
+            image: '/images/Mugs/FULL-WHITE-SUBLIMATION-MUG.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -788,7 +776,7 @@ const data = {
             slug: 'Mug-11',
             capacity: '150ml',
             material: 'Stainless Steel',
-            image: '/images/Mugs/CHIPFLASK  CERAMIC MUG.jpg',
+            image: '/images/Mugs/CHIPFLASK -CERAMIC-MUG.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -800,7 +788,7 @@ const data = {
             slug: 'Mug-12',
             capacity: '500ml',
             material: 'Glass',
-            image: '/images/Mugs/frosted mugs/FROSTED BEER MUG.jpg',
+            image: '/images/Mugs/frosted/FROSTED-BEER-MUG.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -812,7 +800,7 @@ const data = {
             slug: 'Mug-13',
             capacity: '300ml',
             material: 'Glass',
-            image: '/images/Mugs/FROSTED COFFE MUG.jpg',
+            image: '/images/Mugs/FROSTED-COFFE-MUG.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -824,7 +812,7 @@ const data = {
             slug: 'Mug-14',
             capacity: '200ml',
             material: 'Satinless steel (Double Layer)',
-            image: '/images/Mugs/Stainless Steel.png',
+            image: '/images/Mugs/Stainless-Steel.png',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -836,7 +824,7 @@ const data = {
             slug: 'Mug-15',
             capacity: '180ml',
             material: 'Rice Husk',
-            image: '/images/Mugs/Coffee Mugs/ECO FRIENDLY MUG.jpg',
+            image: '/images/Mugs/Coffee/ECO-FRIENDLY-MUG.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -848,7 +836,7 @@ const data = {
             slug: 'Mug-16',
             capacity: '300ml',
             material: 'Ceramic',
-            image: '/images/Mugs/sublimation mug.png',
+            image: '/images/Mugs/sublimation-mug.png',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -860,7 +848,7 @@ const data = {
             slug: 'Mug-17',
             capacity: '300ml',
             material: 'Ceramic',
-            image: '/images/Mugs/Magic Mug.PNG',
+            image: '/images/Mugs/magic-mug (2).jpeg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -872,7 +860,7 @@ const data = {
             slug: 'Mug-18',
             capacity: '500ml',
             material: 'Stainless Steel',
-            image: '/images/Mugs/INSULATED  TRAVEL TUMBLER.jpg',
+            image: '/images/Mugs/INSULATED-TRAVEL-TUMBLER.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -884,7 +872,7 @@ const data = {
             slug: 'Mug-19',
             capacity: '120ml',
             material: 'Stainless Steel & Plastic',
-            image: '/images/Mugs/STEEL MUG.jpg',
+            image: '/images/Mugs/STEEL-MUG.jpg',
             price: 75,
             variety: '3 tone',
             code: '02',
@@ -912,7 +900,7 @@ const data = {
             capacity: "150 ml",
             slug: "couple mug-6",
             material: "Ceramic",
-            image: "/images/Mugs/HEART SHAPED HANDLE.jpg",
+            image: "/images/Mugs/12.jpg",
             price: 0,
             variety: '200ml',
             code: '02',
@@ -926,7 +914,7 @@ const data = {
             capacity: "150 ml",
             slug: "couple mug -2",
             material: "Ceramic",
-            image: "/images/Mugs/Couple Mug.jpg",
+            image: "/images/Mugs/Couple-Mug.jpg",
             price: 0,
             variety: '200ml',
             code: '02',
@@ -944,7 +932,7 @@ const data = {
             name: 'Biodegradable Coffee Cup Lid Brown Paper Cups With Lids Disposable',
             slug: "paper mug-1",
             material: "paper",
-            image: "/images/Mugs/Paper Cup/paper cup.jpeg",
+            image: "/images/Mugs/Paper Cup/Copper _ Coffee Shop.jpeg",
             price: 0,
             variety: '200ml',
             code: '02',
@@ -960,7 +948,7 @@ const data = {
             name: 'Name and Initial Printed Bamboo Thermos Flask with Tea Strainer',
             slug: "bamboo mug-1",
             material: "bamboo",
-            image: "/images/Mugs/Bamboo Mug ,Tumbler, bot/bamboo mug-1.jpeg",
+            image: "/images/Mugs/WOODEN-MUG.jpg",
             price: 0,
             variety: '200ml',
             code: '02',
@@ -973,7 +961,7 @@ const data = {
             name: 'Personalised Bamboo Travel Mug - 500ml Insulated Drinks Flask, Laser Engraved Travel Coffee, Tea Cup, Mothers Day, Fathers Day Gift',
             slug: "bamboo mug-2",
             material: "bamboo",
-            image: "/images/Mugs/Bamboo Mug ,Tumbler, bot/bamboo mug-4.jpeg",
+            image: "/images/Mugs/WOODEN-COFFEE-TUMBLER.jpg",
             price: 0,
             variety: '200ml',
             code: '02',
@@ -990,7 +978,7 @@ const data = {
             capacity: "500 ml",
             slug: "Bottles & Sippers1",
             material: "Stainless Stee",
-            image: "/images/Sippers/hot cold sipper.jpg",
+            image: "/images/Sippers/hot-cold-sipper.jpg",
             price: 0,
             variety: '200ml',
             code: '02',
@@ -1004,7 +992,7 @@ const data = {
             capacity: "500 ml",
             slug: "couple mug -2",
             material: "Stainless Steel",
-            image: "/images/Sippers/stainless steel sipper.png",
+            image: "/images/Sippers/Bottles-Sippers/Stainless-Steel-Sipper.jpg",
             price: 0,
             variety: '200ml',
             code: '02',
@@ -1018,7 +1006,7 @@ const data = {
             capacity: "150 ml",
             slug: "couple mug -3",
             material: "Stainless Steel ( Double Wall )",
-            image: "/images/Sippers/stainless steel double wall.jpg",
+            image: "/images/Sippers/stainless-steel-double-wall.jpg",
             price: 0,
             variety: '200ml',
             code: '02',
@@ -1033,7 +1021,7 @@ const data = {
 
             name: 'Pu Leather Notebook Diary',
             slug: "diarySlug1",
-            image: "/images/Diaries/Diary -1.jpg",
+            image: "/images/Diaries/Diary-1.jpg",
             price: 0,
             variety1: '/images/Extra images variety/syan diaries.jpeg',
             variety2: '/images/Extra images variety/Black Diary.jpeg',
@@ -1100,7 +1088,7 @@ const data = {
             slug: 'Travelmug-3',
             category: 'Mugs',
             material: 'Stainless Steel',
-            image: '/images/Mugs/Coffee Mug - Travel mug.png',
+            image: '/images/Mugs/Tumblers/sipper.jpeg',
             price: 0,
             variety: '200ml',
             code: '02',
@@ -1124,7 +1112,7 @@ const data = {
             slug: 'Travelmug-5',
             category: 'Mugs',
             material: 'Stainless Steel',
-            image: '/images/Mugs/Travel Mug Coffee Cup.webp',
+            image: '/images/Mugs/Travel-Mug-Coffee-Cup.webp',
             price: 0,
             variety: '350ml',
             code: '02',
@@ -1136,7 +1124,7 @@ const data = {
             slug: 'Travelmug-6',
             category: 'Mugs',
             material: 'Stainless Steel',
-            image: '/images/Mugs/Travel mug for Tea and coffee.webp',
+            image: '/images/Mugs/Travel-mug-for-Te- and-coffee.webp',
             price: 0,
             variety: '350ml',
             code: '02',
@@ -1148,7 +1136,7 @@ const data = {
             slug: 'Travelmug-7',
             category: 'Mugs',
             material: 'Stainless Steel',
-            image: '/images/Mugs/Custome Travel mug.jpg',
+            image: '/images/Mugs/Custome-Travel-mug.jpg',
             price: 0,
             variety: '350ml',
             code: '02',
@@ -1162,7 +1150,7 @@ const data = {
 
             name: 'Magnet Name Plate',
             slug: "nameplate1",
-            image: "/images/NamePlate/1 (110).jpg",
+            image: "/images/NamePlate/nameplate.jpg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1184,32 +1172,7 @@ const data = {
             description: "High Quality",
 
         },
-        {
-
-            name: 'Name Plat1',
-            slug: "nameplate3",
-            image: "/images/NamePlate/wow g  (3).webp",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-        {
-
-            name: 'Masgmet Plate',
-            slug: "nameplate4",
-            image: "/images/NamePlate/8233419.jpg",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
+      
 
     ],
     mousepads: [
@@ -1218,7 +1181,7 @@ const data = {
 
             name: 'Custom Company Logo Mouse Pad _ Zazzle',
             slug: "mousepad1",
-            image: "/images/Mouse Pad/Custom Company Logo Mouse Pad _ Zazzle.jpg",
+            image: "/images/Mouse-Pad/mouse-pad-1.jpg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1227,24 +1190,12 @@ const data = {
             description: "High Quality",
 
         },
-        {
-
-            name: 'Yeah!_ Mouse Pad by LavishTrail _ Redbubble',
-            slug: "mousepad2",
-            image: "/images/Mouse Pad/mouse pad-1.jpg",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
+       
         {
 
             name: 'Custom Mouse Pads',
             slug: "mousepad3",
-            image: "/images/Mouse Pad/Custom Mouse Pads.jpg",
+            image: "/images/Mouse-Pad/mousepad-4.jpg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1253,37 +1204,13 @@ const data = {
             description: "High Quality",
 
         },
-        {
-
-            name: 'Get it done Boss Babe',
-            slug: "mousepad4",
-            image: "/images/Mouse Pad/Get it done Boss Babe.jpg",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-        {
-
-            name: ' Gaming Mouse Pad, Desk Mat Extra Large, Desk Pad Large, Gamer Accessories, Desk Pad',
-            slug: "mousepad5",
-            image: "/images/Mouse Pad/mouse pad -2.jpg",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
+  
+      
         {
 
             name: 'Personalized Monogram Desk Mat _ Zazzle',
             slug: "mousepad6",
-            image: "/images/Mouse Pad/Mouse pad-3.jpg",
+            image: "/images/Mouse-Pad/Mouse-pad-3.jpg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1300,7 +1227,7 @@ const data = {
 
             name: 'Cell Phone Finger Grips',
             slug: "mobilehand1",
-            image: "/images/Mobile Holder/1 (73).jpeg",
+            image: "/images/Mobile-Holder/mobile-holder-2.jpg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1313,7 +1240,7 @@ const data = {
 
             name: 'Multi Angle Adjustable',
             slug: "mobilehand2",
-            image: "/images/Mobile Holder/1 (73).jpg",
+            image: "/images/Mobile-Holder/mobileholder-1.jpeg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1322,31 +1249,7 @@ const data = {
             description: "High Quality",
 
         },
-        {
-
-            name: 'Mobile Holder',
-            slug: "mobilehand3",
-            image: "/images/Mobile Holder/wow g  (4).webp",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-        {
-            name: 'Wooden Mobile Holder',
-            slug: "mobilehand4",
-            image: "/images/Mobile Holder/wow g  (26).jpg",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        }
+       
     ],
     clothings: [
         {
@@ -1368,7 +1271,7 @@ const data = {
             // _id: '2',
             name: 'Quicq Dry Sports T-Shirt',
             slug: "clothings2",
-            image: "/images/T-shirts/clothing -1.png",
+            image: "/images/T-shirts/clothing-1.png",
             variety1: 'white',
             variety2: 'black',
             variety3: 'red',
@@ -1415,7 +1318,7 @@ const data = {
             // _id: '1',
             name: 'Pen Drive Printing',
             slug: "pd1",
-            image: "/images/Pen Drive/[removal.ai]_tmp-639ae77c74a06.png",
+            image: "/images/Pen-Drive/pendrivr-1.png",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1430,7 +1333,7 @@ const data = {
             // _id: '3',
             name: 'Wooden Surface',
             slug: "pd2",
-            image: "/images/Wodden  & Sustainable  items/Wooden Pendrive.jpeg",
+            image: "/images/Pen-Drive/wooden-pendrive.webp",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1447,7 +1350,7 @@ const data = {
 
             name: 'Bat shapes Pendrive',
             slug: "pd3",
-            image: "/images/Pen Drive/Bat shapes Pendrive.webp",
+            image: "/images/Pen-Drive/Bat-shapes-Pendrive.webp",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1464,7 +1367,7 @@ const data = {
 
             name: 'Caneta Pen Drive',
             slug: "pd4",
-            image: "/images/Pen Drive/Caneta Pen Drive.jpeg",
+            image: "/images/Pen-Drive/Bat-shapes-Pendrive.webp",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1481,7 +1384,7 @@ const data = {
 
             name: 'Circle Silver Pendrive',
             slug: "pd5",
-            image: "/images/Pen Drive/Circle Silver Pendrive.jpeg",
+            image: "/images/Pen-Drive/Circle-Silver-Pendrive.jpeg",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1498,7 +1401,7 @@ const data = {
 
             name: 'Crystal Pendrive',
             slug: "pd6",
-            image: "/images/Pen Drive/Crystal Pendrive.jpeg",
+            image: "/images/Pen-Drive/Crystal-Pendrive.jpeg",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1515,7 +1418,7 @@ const data = {
 
             name: 'Hook Pendrive',
             slug: "pd7",
-            image: "/images/Pen Drive/Hook Pendrive.jpeg",
+            image: "/images/Pen-Drive/Hook-Pendrive.jpeg",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1532,7 +1435,7 @@ const data = {
 
             name: 'Key Shapes Pendrive',
             slug: "pd8",
-            image: "/images/Pen Drive/Key Shapes Pendrive.jpeg",
+            image: "/images/Pen-Drive/Key-Shapes-Pendrive.jpeg",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1549,7 +1452,7 @@ const data = {
 
             name: 'Message Bottle Pen drives',
             slug: "pd9",
-            image: "/images/Pen Drive/Message Bottle Pen drives.jpeg",
+            image: "/images/Pen-Drive/Message-Bottle-Pen drives.jpeg",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1566,7 +1469,7 @@ const data = {
 
             name: 'Sleek Metal Pendrive',
             slug: "pd10",
-            image: "/images/Pen Drive/Sleek Metal Pendrive.webp",
+            image: "/images/Pen-Drive/Sleek-Metal-Pendrive.webp",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1583,7 +1486,7 @@ const data = {
 
             name: 'Swivel Pendrive',
             slug: "pd11",
-            image: "/images/Pen Drive/Swivel Pendrive.jpeg",
+            image: "/images/Pen-Drive/Swivel-Pendrive.jpeg",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1600,7 +1503,7 @@ const data = {
 
             name: 'Square Wooden Pendrives',
             slug: "pd12",
-            image: "/images/Pen Drive/Square Wooden Pendrives.avif",
+            image: "/images/Pen-Drive/Square-Wooden-Pendrives.avif",
             price1: 120,
             price2: 130,
             price3: 140,
@@ -1619,7 +1522,7 @@ const data = {
         {
             name: 'Beer Glass',
             slug: "Beer mug-1",
-            image: "/images/Mugs/Bear Mug-1 (1).jpeg",
+            image: "/images/Mugs/Bear Mug-2.jpeg",
             variety: '-',
             code: '02',
             capacity: "200 ml",
@@ -1643,7 +1546,7 @@ const data = {
 
             name: 'Glass Beer Mug Laurel Wreath Design',
             slug: "Beer mug-4",
-            image: "/images/Mugs/Glass Beer Mug Laurel Wreath Design.jpeg",
+            image: "/images/Mugs/Glass-Beer-Mug.jpeg",
             variety: '-',
             code: '02',
             capacity: "200 ml",
@@ -1656,7 +1559,7 @@ const data = {
         {
             name: 'Different Show Images Magic Cup',
             slug: "Magic Mug-1",
-            image: "/images/Mugs/Magic Mug.PNG",
+            image: "/images/Mugs/magic-mug-2.jpg",
             capacity: "200 ml",
             price: 0,
             variety: '-',
@@ -1669,7 +1572,7 @@ const data = {
 
             name: 'Magic Cup for gifted anniversary',
             slug: "Magic Mug-2",
-            image: "/images/Mugs/Magic Mug-1.png",
+            image: "/images/Mugs/magic-mug (2).jpeg",
             capacity: "100 ml",
             variety: '-',
             code: '02',
@@ -1678,32 +1581,7 @@ const data = {
 
             description: "High Quality",
         },
-        {
-
-            name: 'Life Personalized Cycling Couple Magic Mug',
-            slug: "Magic Mug-3",
-            image: "/images/Mugs/Magic mug-3.jpeg",
-            capacity: "300 ml",
-            variety: '-',
-            code: '02',
-            price: 0,
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Magic mug',
-            slug: "Magic Mug-4",
-            image: "/images/Mugs/magic Mug.jpeg",
-            capacity: "250 ml",
-            variety: '-',
-            code: '02',
-            price: 0,
-            countInStock: 50,
-
-            description: "High Quality",
-        }
+        
     ],
     stationeries: [
 
@@ -1711,7 +1589,7 @@ const data = {
 
             name: 'Ballpoint Pen Contrast Push Mechanism',
             slug: "stationeries3",
-            image: "/images/Stationery/Ballpoint Pen (2).jpeg",
+            image: "/images/Stationery/Ballpoint-Pen-(2).jpeg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1723,7 +1601,7 @@ const data = {
 
             name: 'Ballpoint Pen',
             slug: "stationeries4",
-            image: "/images/Stationery/Ballpoint Pen.jpeg",
+            image: "/images/Stationery/Ballpoint-Pen.jpeg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1759,7 +1637,7 @@ const data = {
 
             name: 'personalised-hard-bound-diary',
             slug: "stationeries7",
-            image: "/images/Stationery/personalised-hard-bound-diary.webp",
+            image: "/images/Stationery/Pu-Leather-Notebook-Diary.webp",
             price: 0,
             variety: '-',
             code: '02',
@@ -1767,23 +1645,12 @@ const data = {
 
             description: "High Quality",
         },
-        {
-
-            name: 'Plastic Ballpoints Pen',
-            slug: "stationeries8",
-            image: "/images/Stationery/Plastic Ballpoints Pen.jpeg",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+      
         {
 
             name: 'Students Notebooks',
             slug: "stationeries9",
-            image: "/images/Stationery/Students Notebooks.jpeg",
+            image: "/images/Stationery/Students-Notebooks.jpeg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1796,7 +1663,7 @@ const data = {
         {
             name: 'Shot Glasses',
             slug: "Shot Glasses-1",
-            image: "/images/Mugs/Shot Glasses.jpeg",
+            image: "/images/Mugs/Shot-Glasses.jpeg",
             capacity: "200 ml",
             price: 0,
             variety: '-',
@@ -1810,7 +1677,7 @@ const data = {
         {
             name: '3 in 1 Gift Set',
             slug: "Gift Set-1",
-            image: "/images/Giftsets/Team Gift for New Employee,and all.jpeg",
+            image: "/images/Giftsets/giftset-1 (2).jpeg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1820,7 +1687,7 @@ const data = {
         {
             name: 'The Wallet Store Personalized Workday Wonder Unisex Gift Set',
             slug: "Gift Set-2",
-            image: "/images/Giftsets/The Wallet Store Personalized Workday Wonder Unisex Gift Set.jpeg",
+            image: "/images/Giftsets/giftset-3.jpeg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1840,7 +1707,7 @@ const data = {
         {
             name: 'Gift Set  Flask, Notebook, Pen',
             slug: "Gift Set-4",
-            image: "/images/Giftsets/Gift Set  Flask, Notebook, Pen.jpeg",
+            image: "/images/Giftsets/Giftset-1.jpeg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1850,7 +1717,7 @@ const data = {
         {
             name: 'Custom Coworker Gift Pack, Company Promotional Gift Box, Business Gift Pack, Best Employee Gift, Personalized Business Gift Box, Office Gift',
             slug: "Gift Set-5",
-            image: "/images/Giftsets/Custom Coworker Gift Pack.jpeg",
+            image: "/images/Giftsets/Custom-Coworker-Gift-Pack.jpeg",
             price: 0,
             variety: '-',
             code: '02',
@@ -1876,7 +1743,7 @@ const data = {
 
             name: 'Pu Leather Notebook Diarys',
             slug: "diaries1",
-            image: "/images/Stationery/Pu Leather Notebook Diary.webp",
+            image: "/images/Stationery/Pu-Leather-Notebook-Diary.webp",
             category: 'Diaries',
             price: 0,
             variety: '-',
@@ -1902,7 +1769,7 @@ const data = {
 
             name: 'Student Notebooks',
             slug: "stationeries9",
-            image: "/images/Stationery/Students Notebooks.jpeg",
+            image: "/images/Stationery/Students-Notebooks.jpeg",
             category: 'Notebook',
             price: 0,
             variety: '-',
@@ -1935,7 +1802,7 @@ const data = {
         {
             name: 'Green Student Notebook',
             slug: "notebook-2",
-            image: "/images/Notebooks/download (2).jpeg",
+            image: "/images/Notebooks/download(2).jpeg",
             category: 'Notebook',
             price: 0,
             variety1: 'Cyan',
@@ -1969,7 +1836,7 @@ const data = {
         {
             name: 'Notebook Branding Design Inspiration',
             slug: "notebook-5",
-            image: "/images/Notebooks/Notebook Branding Design Inspiration.jpeg",
+            image: "/images/Notebooks/notebook-1.jpeg",
             category: 'Notebook',
             price: 0,
             variety1: 'Cyan',
@@ -1992,7 +1859,7 @@ const data = {
 
             name: 'Single Wall Sipper',
             slug: "singleWall-1",
-            image: "/images/Sippers/hot cold sipper.jpg",
+            image: "/images/Sippers/hot-cold-sipper.jpg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Copper',
@@ -2011,7 +1878,7 @@ const data = {
 
             name: 'Plastic Sipper',
             slug: "plasticWall-1",
-            image: "/images/Sippers/wow g  (6).jpg",
+            image: "/images/Sippers/sipper-2.jpg",
             category: 'Sipper',
             capacity: '1 liter',
             material: ' plastic',
@@ -2025,7 +1892,7 @@ const data = {
         {
             name: 'Motivational Sport Water Bottle Fitness Jugs For Kitchen Cups',
             slug: "bottles & sipper -8",
-            image: "/images/Sippers/Bottles & Sippers/sports water bottle.jpeg",
+            image: "/images/Sippers/Bottles-Sippers/sports-water-bottle.jpeg",
             category: 'drinkware',
             capacity: '300 ml',
             material: 'Ceramic',
@@ -2038,13 +1905,13 @@ const data = {
         },
 
     ],
-    copperbottles: [
+    copperbottles: [    
 
         {
 
             name: 'Copper Bottle',
             slug: "copper sipper-1",
-            image: "/images/Sippers/copper bottle.jpeg",
+            image: "/images/Sippers/copper-bottle.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: ' Copper',
@@ -2063,7 +1930,7 @@ const data = {
 
             name: '1pc Clear Water Bottle',
             slug: "antiskit glass-1",
-            image: "/images/Sippers/Glass Bottles/1pc Clear Water Bottle.jpeg",
+            image: "/images/Sippers/Glass-Bottles/glassbottle-1.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: ' Borosillicate Glass',
@@ -2078,7 +1945,7 @@ const data = {
 
             name: 'Botellas de agua personalizadas ➤ durabilidad IMBORRABLE',
             slug: "antiskit glass-2",
-            image: "/images/Sippers/Glass Bottles/Botellas de agua personalizadas ➤ durabilidad IMBORRABLE.jpeg",
+            image: "/images/Sippers/Glass-Bottles/glassbottle-2.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Bomboo',
@@ -2093,7 +1960,7 @@ const data = {
 
             name: 'Custom borosilicate glass water bottle double wall 500ml glass bottle tea infuser water bottle',
             slug: "antiskit glass-3",
-            image: "/images/Sippers/Glass Bottles/Glass Water Bottle.jpeg",
+            image: "/images/Sippers/Glass-Bottles/Glass-Water-Bottle.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Bomboo',
@@ -2108,7 +1975,7 @@ const data = {
 
             name: 'Customized Silicone Rubber Sleeve, Silicone Sheath from China, Silicone Sleeve Manufacturer & Supplier',
             slug: "antiskit glass-4",
-            image: "/images/Sippers/Glass Bottles/glass bottle.jpeg",
+            image: "/images/Sippers/Glass-Bottles/glass-bottle.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Bomboo',
@@ -2123,7 +1990,7 @@ const data = {
 
             name: 'Glass Water Bottles with Infuser Strainer 18oz Glass Water Bottle with Stainless Steel Filter Leak Proof Tea Tumbler with Nylon Protective Sleeve',
             slug: "antiskit glass-5",
-            image: "/images/Sippers/Glass Bottles/Glass Water Bottle -2.jpeg",
+            image: "/images/Sippers/Glass-Bottles/Glass-Water-Bottle.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Bomboo',
@@ -2142,7 +2009,7 @@ const data = {
 
             name: 'Bomboo Bottles',
             slug: "bamboo Bottles-1",
-            image: "/images/Sippers/Stainless Steel- Bomboo.jpg",
+            image: "/images/Sippers/Stainless-Steel- Bomboo.jpg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Bomboo',
@@ -2157,7 +2024,7 @@ const data = {
 
             name: 'Initial Printed Bamboo Thermos Flask with Tea Strainer',
             slug: "bamboo Bottles-2",
-            image: "/images/drinkware/Bamboo Mug ,Tumbler, bot/Name and Initial Printed Bamboo Thermos Flask with Tea Strainer.jpeg",
+            image: "/images/drinkware/bamboomug-1.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Bomboo',
@@ -2172,7 +2039,7 @@ const data = {
 
             name: 'Wooden Tumbler Personalized, Unique Tea cup, Thermos, thermo cup, thermo mug, wood mug, personalized wooden mug engraved tumbler wood gift',
             slug: "bamboo Bottles-3",
-            image: "/images/Wodden  & Sustainable  items/wooden thumblair.jpeg",
+            image: "/images/drinkware/bamboomug-2.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Bomboo',
@@ -2191,10 +2058,10 @@ const data = {
 
             name: '1pc Clear Water Bottle',
             slug: "borosillicate glass-1",
-            image: "/images/Sippers/Glass Bottles/1pc Clear Water Bottle.jpeg",
+            image: "/images/Sippers/Glass-Bottles/glassbottle-1.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
-            material: ' Borosillicate Glass',
+            material: 'Borosillicate Glass',
             price1: 260,
             price2: 230,
             price3: 195,
@@ -2212,7 +2079,7 @@ const data = {
 
             name: 'Botellas de agua personalizadas ➤ durabilidad IMBORRABLE',
             slug: "borosillicate glass-2",
-            image: "/images/Sippers/Glass Bottles/Botellas de agua personalizadas ➤ durabilidad IMBORRABLE.jpeg",
+            image: "/images/Sippers/Glass-Bottles/glassbottle-2.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Bomboo',
@@ -2233,7 +2100,7 @@ const data = {
 
             name: 'Custom borosilicate glass water bottle double wall 500ml glass bottle tea infuser water bottle',
             slug: "borosillicate glass-3",
-            image: "/images/Sippers/Glass Bottles/Glass Water Bottle.jpeg",
+            image: "/images/Sippers/Glass-Bottles/Glass-Water-Bottle-2.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Bomboo',
@@ -2254,7 +2121,7 @@ const data = {
 
             name: 'Customized Silicone Rubber Sleeve, Silicone Sheath from China, Silicone Sleeve Manufacturer & Supplier',
             slug: "borosillicate glass-4",
-            image: "/images/Sippers/Glass Bottles/glass bottle.jpeg",
+            image: "/images/Sippers/Glass-Bottles/glass-bottle.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Bomboo',
@@ -2275,7 +2142,7 @@ const data = {
 
             name: 'Glass Water Bottles with Infuser Strainer 18oz Glass Water Bottle with Stainless Steel Filter Leak Proof Tea Tumbler with Nylon Protective Sleeve',
             slug: "borosillicate glass-5",
-            image: "/images/Sippers/Glass Bottles/Glass Water Bottle -2.jpeg",
+            image: "/images/Sippers/Glass-Bottles/Glass-Water-Bottle-2.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'Bomboo',
@@ -2301,7 +2168,7 @@ const data = {
 
             name: 'Nutrition Shaker Bottle',
             slug: "Shakker bottle-1",
-            image: "/images/Sippers/Nutrition Shaker Bottle.jpeg",
+            image: "/images/Sippers/Nutrition-Shaker-Bottle.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'plastic',
@@ -2316,7 +2183,7 @@ const data = {
 
             name: 'Shaker Bottle',
             slug: "Shakker bottle-2",
-            image: "/images/Sippers/Shakker Bottle.jpeg",
+            image: "/images/Sippers/Shakker-Bottle.jpeg",
             category: 'Sipper',
             capacity: '1 liter',
             material: 'plastic',
@@ -2350,7 +2217,7 @@ const data = {
 
             name: '4 Free Pin Button Mockups (PSD)',
             slug: "roundbadge-1",
-            image: "/images/Name Badges/Round badges/4 Free Pin Button Mockups (PSD).jpeg",
+            image: "/images/namebadge/Round-badges/metal-badge-2.jpeg",
             category: 'badge',
             material: 'Magnet',
             price: 0,
@@ -2362,9 +2229,9 @@ const data = {
         },
         {
 
-            name: 'Multiple design round badge',
+            name: 'Multiple design round-badge',
             slug: "roundbadge-2",
-            image: "/images/Name Badges/Round badges/download (1).jpg",
+            image: "/images/namebadge/Round-badges/round-badge-1.jpg",
             category: 'badge',
             material: 'Magnet',
             price: 0,
@@ -2378,7 +2245,7 @@ const data = {
 
             name: 'Emblem Badge Mock ups',
             slug: "roundbadge-3",
-            image: "/images/Name Badges/Round badges/Emblem Badge Mock ups.jpeg",
+            image: "/images/namebadge/Round-badges/round-badge-2.jpeg",
             category: 'badge',
             material: 'Magnet',
             price: 0,
@@ -2406,7 +2273,7 @@ const data = {
 
             name: 'Free Pin-Back Button Badge Mockup Set - Good Mockups',
             slug: "roundbadge-5",
-            image: "/images/Name Badges/Round badges/Free Pin-Back Button Badge Mockup Set - Good Mockups.jpeg",
+            image: "/images/namebadge/Round-badges/round-badge-3.jpeg",
             category: 'badge',
             material: 'Magnet',
             price: 0,
@@ -2420,7 +2287,7 @@ const data = {
 
             name: 'Search Results -_ wellbeing  _ Kool Badges',
             slug: "roundbadge-6",
-            image: "/images/Name Badges/Round badges/Search Results -_ wellbeing  _ Kool Badges.jpg",
+            image: "/images/namebadge/Round-badges/round-badge-4.jpg",
             category: 'badge',
             material: 'Magnet',
             price: 0,
@@ -2432,23 +2299,9 @@ const data = {
         },
         {
 
-            name: 'Custom Minimalist Modern Simple Basic Black Title',
-            slug: "Oval shape Badge-1",
-            image: "/images/Name Badges/Oval Shape Badge/Custom Minimalist Modern Simple Basic Black Title.jpeg",
-            category: 'badge',
-            material: 'Magnet',
-            price: 26,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
             name: 'Custom Oval shaped Brass Name Badges_ Elevate Your Identity with our personalised engraved solid brass name badges, Your Name, Your Style',
             slug: "Oval shape Badge-2",
-            image: "/images/Name Badges/Oval Shape Badge/Custom Oval shaped Brass Name Badges_ Elevate Your Identity with our personalised engraved solid brass name badges, Your Name, Your Style.jpeg",
+            image: "/images/namebadge/Oval-Shape-Badge/ovel-baadge.jpeg",
             category: 'badge',
             material: 'Magnet',
             price: 26,
@@ -2458,21 +2311,6 @@ const data = {
 
             description: "High Quality",
         },
-        {
-
-            name: 'Personalised Oak Veneer Name Badge - Eco-Friendly, Oval',
-            slug: "Oval shape Badge-3",
-            image: "/images/Name Badges/Oval Shape Badge/Personalised Oak Veneer Name Badge - Eco-Friendly, Oval.jpeg",
-            category: 'badge',
-            material: 'Magnet',
-            price: 26,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-
     ],
     pocmagbadges: [
 
@@ -2480,7 +2318,7 @@ const data = {
 
             name: 'Pocket Magnetic Badge',
             slug: "pocket-1",
-            image: "/images/Badges/Pocket Magnetic Badge.jpeg",
+            image: "/images/Badges/Pocket-Magnetic-Badge.jpeg",
             category: 'badge',
             material: 'Magnet',
             price: 0,
@@ -2498,7 +2336,7 @@ const data = {
 
             name: 'Corporate Logo Professional Employee Faux Gold Name Tag  Zazzle',
             slug: "metal-1",
-            image: "/images/Name Badges/metal badge-2.jpeg",
+            image: "/images/namebadge/Metal-badges/metal-badge.jpeg",
             category: 'badge',
             material: 'Magnet',
             price: 0,
@@ -2508,39 +2346,13 @@ const data = {
 
             description: "High Quality",
         },
-        {
-
-            name: 'DIY variety Brushed Gray Faux Metallic Employee Name Tag  Zazzle',
-            slug: "metal-2",
-            image: "/images/Name Badges/Metal badges/DIY Color Brushed Gray Faux Metallic Employee Name Tag  Zazzle.jpeg",
-            category: 'badge',
-            material: 'Magnet',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Silver gradient add logo business staff employee name tag  Zazzle',
-            slug: "metal-3",
-            image: "/images/Name Badges/metal badge-1.jpeg",
-            category: 'badge',
-            material: 'Magnet',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+        
+      
         {
 
             name: 'Silver Stainless Steel Metal Name Tag  Zazzle',
             slug: "metal-4",
-            image: "/images/Name Badges/Metal badges/Silver Stainless Steel Metal Name Tag  Zazzle.jpeg",
+            image: "/images/namebadge/Cover Page of badges/Untitled-2.jpg",
             category: 'badge',
             material: 'Magnet',
             price: 0,
@@ -2558,7 +2370,7 @@ const data = {
 
             name: 'Round Pin Magnetic Badge',
             slug: "Round Pin Badge-1",
-            image: "/images/Badges/wow g  (61).jpg",
+            image: "/images/namebadge/Round-badges/metal-badge-2.jpeg",
             category: 'badge',
             material: 'Magnet',
             price: 0,
@@ -2572,7 +2384,7 @@ const data = {
 
             name: '4 Free Pin Button Mockups (PSD)',
             slug: "Round Pin Badge-2",
-            image: "/images/Name Badges/Round badges/4 Free Pin Button Mockups (PSD).jpeg",
+            image: "/images/namebadge/Round-badges/round-badge-1.jpg",
             category: 'badge',
             material: 'Magnet',
             price: 0,
@@ -2581,22 +2393,7 @@ const data = {
             countInStock: 50,
 
             description: "High Quality",
-        },
-        {
-
-            name: 'Emblem Badge Mock ups',
-            slug: "Round Pin Badge-3",
-            image: "/images/Name Badges/Round badges/Emblem Badge Mock ups.jpeg",
-            category: 'badge',
-            material: 'Magnet',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-
+        }
     ],
     acrynamebadges: [
 
@@ -2604,7 +2401,7 @@ const data = {
 
             name: 'Magnetic Name Tag Display',
             slug: "Acrylic name Badge-1",
-            image: "/images/Name Badges/Acrylic name badge/Magnetic Name Tag Display.jpeg",
+            image: "/images/namebadge/Acrylic-name-badge/acrylic badge.jpeg",
             category: 'badge',
             material: 'Magnet',
             price: 0,
@@ -2622,7 +2419,7 @@ const data = {
 
             name: 'Clip on Plastic Badge',
             slug: "Clip Badge-1",
-            image: "/images/Badges/Clip on Plastic Badge.jpeg",
+            image: "/images/Badges/Plastic-Badge.jpeg",
             category: 'badge',
             material: 'Plastic',
             price: 13,
@@ -2656,7 +2453,7 @@ const data = {
 
             name: 'Dom Magnetics Badge',
             slug: "Dom Badge-2",
-            image: "/images/Name Badges/Dome Name Badge/3f83f9ce19152765bf7bd9c4461bfa17.jpg",
+            image: "/images/Badges/dom-badge.jpeg",
             category: 'badge',
             material: 'Magnet',
             price: 26,
@@ -2679,7 +2476,7 @@ const data = {
 
             name: 'laptop bag sleeve case cover pouch with handle',
             slug: "laptop bag-1",
-            image: "/images/Laptop Sleeve/laptop bag sleeve case cover pouch with handle.jpg",
+            image: "/images/Laptop-Sleeve/laptop-sleeve-1.jpg",
             category: ' laptop bags',
             price: 0,
             variety: '-',
@@ -2692,7 +2489,7 @@ const data = {
 
             name: 'Dunlop CX Performance Tennis Backpack (Black_Red)',
             slug: "laptop bag-3",
-            image: "/images/Laptop Sleeve/loptop_sleeves1.webp",
+            image: "/images/Laptop-Sleeve/loptop_sleeves1.webp",
             category: ' laptop bags',
             price: 0,
             variety: '-',
@@ -2705,7 +2502,7 @@ const data = {
 
             name: 'Naylon Laptop Sleeve',
             slug: "laptop bag-4",
-            image: "/images/Laptop Sleeve/Naylon Laptop Sleeve.png",
+            image: "/images/Laptop-Sleeve/Naylo-Laptop-Sleeve.png",
             category: ' laptop bags',
             price: 0,
             variety: '-',
@@ -2718,7 +2515,7 @@ const data = {
 
             name: 'Waterproof laptop',
             slug: "laptop bag-5",
-            image: "/images/Laptop Sleeve/Waterproof laptop.jpg",
+            image: "/images/Laptop-Sleeve/Waterproof-laptop.jpg",
             category: ' laptop bags',
             price: 0,
             variety: '-',
@@ -2735,7 +2532,7 @@ const data = {
 
             name: 'Pin Name Plate',
             slug: "Pin name plate-1",
-            image: "/images/NamePlate/Pin name plate.jpeg",
+            image: "/images/NamePlate/Pin-name-plate.jpeg",
             category: ' Name Plate',
             material: 'Metal',
             price: 0,
@@ -2753,7 +2550,7 @@ const data = {
 
             name: 'Dom Name Plate',
             slug: "dom name plate-1",
-            image: "/images/NamePlate/dom name plate.webp",
+            image: "/images/NamePlate/dom-name-plate.webp",
             category: 'Name Plate',
             material: 'Metal',
             price: 0,
@@ -2789,7 +2586,7 @@ const data = {
 
             name: 'Metal Name Plate for Home _ Stainless steel name plates',
             slug: "Metal name plate-1",
-            image: "/images/NamePlate/Metal Name Plate for Home _ Stainless steel name plates.jpeg",
+            image: "/images/NamePlate/nameplate.jpg",
             category: ' Name Plate',
             material: 'Metal',
             price: 0,
@@ -2807,7 +2604,7 @@ const data = {
 
             name: 'wireless mouse ',
             slug: "mouse-1",
-            image: "/images/wireless mouse & keyboard/wirelass mouse.jpeg",
+            image: "/images/wireless-mouse-keyboard/wirelass-mouse.jpeg",
             category: 'Wirelss',
             price: 0,
             variety: '-',
@@ -2820,7 +2617,7 @@ const data = {
 
             name: 'Wireless Touch Keyboard',
             slug: "keyboard-1",
-            image: "/images/wireless mouse & keyboard/Wireless Touch Keyboard.jpeg",
+            image: "/images/wireless-mouse-keyboard/Wireless-Touch-Keyboard.jpeg",
             category: 'Wirelss',
             price: 0,
             variety: '-',
@@ -2856,7 +2653,7 @@ const data = {
 
             name: 'Table Lamp',
             slug: "tablelamp-1",
-            image: "/images/lights&lamps Bleeker Touch Table Lamp.jpeg",
+            image: "/images/tablelamp.jpeg",
             category: 'Tablelamp',
             price: 0,
             variety: '-',
@@ -2879,7 +2676,6 @@ const data = {
             variety: '-',
             code: '02',
             countInStock: 50,
-
             description: "Pack Of Is 1. Model Name Is Digital Smart Backlight Alarm Clock With Automatic Sensor, Date & Temperature, Alarm Clocks For Bedroom. Sales Package Is 1 Alram Clock. Character Is No Character. Luminous Is No. Theme Is No Theme. Material Is Plastic. Model Number Is 1019 - Black. Net Quantity Is 1. Suitable For Is Home, Office.",
         },
 
@@ -2890,7 +2686,7 @@ const data = {
 
             name: 'digital photo frame',
             slug: "digital photo frame-1",
-            image: "/images/digital photo frame/digital photo frame.jpeg",
+            image: "/images/digital-photo-frame/digital-photo-frame.jpeg",
             category: 'photo frame',
             price: 0,
             variety: '-',
@@ -2907,7 +2703,7 @@ const data = {
 
             name: 'A5 Glass photo frame',
             slug: "photo Frame-1",
-            image: "/images/Photo Frame/A5 Glass photo frame❤️.jpeg",
+            image: "/images/photoframe/photoframe-1.jpeg",
             category: 'photo frame',
             variety: '-',
             code: '02',
@@ -2920,7 +2716,7 @@ const data = {
 
             name: 'Customized Frame',
             slug: "photo frame-2",
-            image: "/images/Photo Frame/Customized Frame.jpeg",
+            image: "/images/photoframe/Customized-Frame.jpeg",
             category: 'photo frame',
             price: 0,
             variety: '-',
@@ -2933,7 +2729,7 @@ const data = {
 
             name: 'Photo Frame',
             slug: "photo frame-3",
-            image: "/images/Photo Frame/download (9).jpeg",
+            image: "/images/photoframe/photoframe-2.jpeg",
             category: 'photo frame',
             price: 0,
             variety: '-',
@@ -2946,7 +2742,7 @@ const data = {
 
             name: 'Wooden frame on a parquet floor design element by Teddy about wall art mockup,  plain wooden frame, light, and gallery mockup',
             slug: "photo frame-4",
-            image: "/images/Photo Frame/Wooden photo frame.jpeg",
+            image: "/images/photoframe/Wooden-photo-frame.jpeg",
             category: 'photo frame',
             price: 0,
             variety: '-',
@@ -2959,7 +2755,7 @@ const data = {
 
             name: 'Mini frame',
             slug: "photo frame-6",
-            image: "/images/Photo Frame/Mini frame.jpeg",
+            image: "/images/photoframe/Miniframe.jpeg",
             category: 'photo frame',
             price: 0,
             variety: '-',
@@ -2972,7 +2768,7 @@ const data = {
 
             name: 'Posters _ Posters & prints',
             slug: "photo frame-7",
-            image: "/images/Photo Frame/Posters _ Posters & prints.jpeg",
+            image: "/images/photoframe/photoframe-3.jpeg",
             category: 'photo frame',
             price: 0,
             variety: '-',
@@ -2990,7 +2786,7 @@ const data = {
 
             name: 'Acrylic custom keychain/Llaveros personalizados',
             slug: "keychain-2",
-            image: "/images/Keychains/Acrylic custom keychain/Llaveros personalizados✨.jpeg",
+            image: "/images/Keychains/Acrylic-custom-keychain/acrylic-1.jpeg",
             category: 'Acrylic custome keychain',
             material: 'Acrylic',
             price: 0,
@@ -3004,7 +2800,7 @@ const data = {
 
             name: 'Personalized Spotify Plaque Keychain',
             slug: "keychain-3",
-            image: "/images/Keychains/Acrylic custom keychain/Personalized Spotify Plaque Keychain.jpeg",
+            image: "/images/Keychains/Acrylic-custom-keychain/acrylic-2.jpeg",
             category: 'Acrylic custome keychain',
             material: 'Acrylic',
             price: 0,
@@ -3018,7 +2814,7 @@ const data = {
 
             name: 'QR Code Business Card Your Logo Custom Keychain, Adult Unisex, variety_ Large, Pale Blue',
             slug: "keychain-4",
-            image: "/images/Keychains/Acrylic custom keychain/QR Code  (1).jpeg",
+            image: "/images/Keychains/Acrylic-custom-keychain/QR-Code.jpeg",
             category: 'Acrylic custome keychain',
             material: 'Acrylic',
             price: 0,
@@ -3032,7 +2828,7 @@ const data = {
 
             name: 'Sleutelhanger hart _ Initial',
             slug: "keychain-5",
-            image: "/images/Keychains/Acrylic custom keychain/Sleutelhanger hart _ Initial.jpeg",
+            image: "/images/Keychains/Acrylic-custom-keychain/Sleutelhanger-hart.jpeg",
             category: 'Acrylic custome keychain',
             material: 'Acrylic',
             price: 0,
@@ -3046,7 +2842,7 @@ const data = {
 
             name: 'Beautiful and Memorable Personalised Gifts',
             slug: "keychain-6",
-            image: "/images/Keychains/Wodden Keychain/Beautiful and Memorable Personalised Gifts.jpeg",
+            image: "/images/Keychains/Wodden-Keychain/wooden-keychain.jpeg",
             category: 'Wodden Keychain',
             material: 'Wooden',
             price: 0,
@@ -3061,21 +2857,7 @@ const data = {
 
             name: 'Men Geo Charm Keychain',
             slug: "keychain-8",
-            image: "/images/Keychains/Wodden Keychain/Men Geo Charm Keychain.jpeg",
-            category: 'Wodden Keychain',
-            material: 'Wooden',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Monogrammed Key Fob - Two Sided _ Oval',
-            slug: "keychain-9",
-            image: "/images/Keychains/Wodden Keychain/Monogrammed Key Fob - Two Sided _ Oval (1).jpeg",
+            image: "/images/Keychains/Wodden-Keychain/wooden-keychain-2.jpeg",
             category: 'Wodden Keychain',
             material: 'Wooden',
             price: 0,
@@ -3088,24 +2870,9 @@ const data = {
        
         {
 
-            name: 'Wooden Keychain - HOME - One Sided _ Square',
-            slug: "keychain-11",
-            image: "/images/Keychains/Wodden Keychain/Wooden Keychain - HOME - One Sided _ Square.jpeg",
-            category: 'Wodden Keychain',
-            material: 'Wooden',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-      
-        {
-
             name: 'Mens Metal Leather Car Keychain',
             slug: "keychain-13",
-            image: "/images/Keychains/Metal keyChain/1pc Men's Metal Leather Car Keychain.jpeg",
+            image: "/images/Keychains/Metal-keyChain/metl-keychain-1.jpeg",
             category: 'Wodden Keychain',
             material: 'Wooden',
             price: 0,
@@ -3120,7 +2887,7 @@ const data = {
 
             name: 'metal keychain',
             slug: "keychain-15",
-            image: "/images/Keychains/Metal keyChain/100 Chaveiro Metal Cód 10032 Personalizados com Seu Logo.jpeg",
+            image: "/images/Keychains/Metal-keyChain/metal_keychain-2.jpeg",
             category: 'metal Keychain',
             material: 'metal',
             price: 0,
@@ -3134,7 +2901,7 @@ const data = {
 
             name: 'Chaveiro Metal _ Lembrancinhas  _ Drika Brindes',
             slug: "keychain-16",
-            image: "/images/Keychains/Metal keyChain/Chaveiro Metal _ Lembrancinhas  _ Drika Brindes.jpeg",
+            image: "/images/Keychains/Metal-keyChain/metal-keychain-2.jpeg",
             category: 'metal Keychain',
             material: 'Matal',
             price: 0,
@@ -3145,53 +2912,12 @@ const data = {
             description: "High Quality",
         },
        
-        {
-
-            name: 'Buckle Decor Keychain Pu Leather Metal Key Ring Purse Bag Backpack Car Key Charm Accessory',
-            slug: "keychain-18",
-            image: "/images/Keychains/Metal keyChain/Chaveiro Metal e Couro Sintético.jpeg",
-            category: 'metal Keychain',
-            material: 'Metal',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Chaveiro_ Couro Sintético E Metal',
-            slug: "keychain-19",
-            image: "/images/Keychains/Metal keyChain/Chaveiro_ Couro Sintético E Metal - 93156.jpeg",
-            category: 'metal Keychain',
-            material: 'Metal',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Chaveiros',
-            slug: "keychain-20",
-            image: "/images/Keychains/Metal keyChain/Chaveiros (1).jpeg",
-            category: 'metal Keychain',
-            material: 'Metal',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+       
         {
 
             name: 'Metal Keychain Chaveiros',
             slug: "keychain-21",
-            image: "/images/Keychains/Metal keyChain/Chaveiros (2).jpeg",
+            image: "/images/Keychains/Metal-keyChain/Chaveiros(2).jpeg",
             category: 'metal Keychain',
             material: 'Metal',
             price: 0,
@@ -3205,7 +2931,7 @@ const data = {
 
             name: 'chaveiros personalizados',
             slug: "keychain-22",
-            image: "/images/Keychains/Metal keyChain/chaveiros personalizados.jpeg",
+            image: "/images/Keychains/Metal-keyChain/chaveiros-personalizados.jpeg",
             category: 'metal Keychain',
             material: 'Metal',
             price: 0,
@@ -3215,39 +2941,12 @@ const data = {
 
             description: "High Quality",
         },
-        {
-
-            name: 'chaveiros personalizados metal keychain',
-            slug: "keychain-23",
-            image: "/images/Keychains/Metal keyChain/Chaveiros.jpeg",
-            category: 'metal Keychain',
-            material: 'Metal',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Llavero BUMPER',
-            slug: "keychain-24",
-            image: "/images/Keychains/Metal keyChain/Llavero BUMPER - Azul claro.jpeg",
-            category: 'metal Keychain',
-            material: 'Metal',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+       
         {
 
             name: 'Llavero de polipiel rectanglo',
             slug: "keychain-25",
-            image: "/images/Keychains/Metal keyChain/Llavero de polipiel rectanglo.jpeg",
+            image: "/images/Keychains/Metal-keyChain/metal-keychain-4.jpeg",
             category: 'metal Keychain',
             material: 'Metal',
             price: 0,
@@ -3267,7 +2966,7 @@ const data = {
 
             name: 'Glass Lunch Boxes - Buy Glass Tiffins',
             slug: "lunch box-1",
-            image: "/images/Lunch Boxess/Glass Lunch Boxes - Buy Glass Tiffins.jpeg",
+            image: "/images/LunchBoxess/lunch-box-1.jpeg",
             category: 'Lunch Box',
             price: 0,
             variety: '-',
@@ -3280,7 +2979,7 @@ const data = {
 
             name: 'Letter Graphic Random Lunch Box',
             slug: "lunch box-2",
-            image: "/images/Lunch Boxess/Letter Graphic Random Lunch Box.jpeg",
+            image: "/images/LunchBoxess/lunch-box-2.jpeg",
             category: 'Lunch Box',
             price: 0,
             variety: '-',
@@ -3297,7 +2996,7 @@ const data = {
 
             name: 'Staineless Cordless Electric Kettle with Variable Temp - Platinum',
             slug: "kettle-1",
-            image: "/images/Kettles/Staineless Cordless Electric Kettle with Variable Temp - Platinum.jpeg",
+            image: "/images/Kettles/kettle-1.jpeg",
             category: 'Kettles',
             price: 0,
             variety: '-',
@@ -3310,7 +3009,7 @@ const data = {
 
             name: 'Geometric Kettle',
             slug: "kettle-2",
-            image: "/images/Kettles/Next Geometric Kettle.jpeg",
+            image: "/images/Kettles/kettle-2.jpeg",
             category: 'Kettles',
             price: 0,
             variety: '-',
@@ -3327,7 +3026,7 @@ const data = {
 
             name: 'ew Business Card Holder Mens Card Id Holders Magnetic Attractive Card Case Box Mini Wallet Male Credit Card Holder',
             slug: "Card Holder-1",
-            image: "/images/card holder/Card Holder.jpeg",
+            image: "/images/card-holder/Card-Holder.jpeg",
             category: 'Card',
             price: 0,
             variety: '-',
@@ -3341,7 +3040,7 @@ const data = {
 
             name: 'Premium Pu Leather Business Card Holder With Rfid Blocking & Magnetic Clasp - Perfect For Women & Men Professionals',
             slug: "Card Holder-5",
-            image: "/images/card holder/Card.jpeg",
+            image: "/images/card-holder/Card.jpeg",
             category: 'Card',
             price: 0,
             variety: '-',
@@ -3354,7 +3053,7 @@ const data = {
 
             name: 'Card Holder Specialty Packaging',
             slug: "Card Holder-6",
-            image: "/images/card holder/Premium Slim Card Holder - Grey.jpeg",
+            image: "/images/card-holder/Premium-Slim-Card-Holder-Grey.jpeg",
             category: 'Card',
             price: 0,
             variety: '-',
@@ -3371,7 +3070,7 @@ const data = {
 
             name: '1x Alarm Clock Classic Retro 4 Electroplated Silver Double-bell Alarm Clock',
             slug: "Best Seller-1",
-            image: "/images/Best Sellers/1x Alarm Clock Classic Retro 4 Electroplated Silver Double-bell Alarm Clock.jpeg",
+            image: "/images/Best-Sellers/alarm.jpeg",
             price: 0,
             description: 'One94Store Vintage Table Alarm Clock, Metal Twin Bell Analog Display with Night LED Light Battery Operated Loud Sound Alarm Voice Clock for Heavy Sleepers, Students, Bedroom/Office (Silver, 4 inch)',
             countInStock: 50,
@@ -3384,7 +3083,7 @@ const data = {
 
             name: '25 Dark Academia Room Decor Ideas You’ll Fall In Love With',
             slug: "Best Seller-2",
-            image: "/images/Best Sellers/25 Dark Academia Room Decor Ideas You’ll Fall In Love With.jpeg",
+            image: "/images/Best-Sellers/home-decorate.jpeg",
             description: "DEKAD alarm clock, black, Clock frame: Steel, 10 cm. A modern quartz movement is hidden in this clock with a clean and classic design. So you avoid being disturbed by ticking sound as time passes, but you’ll surely hear it when it’s to wake up.",
             price: 0,
             variety: '-',
@@ -3397,7 +3096,7 @@ const data = {
 
             name: 'Rubic Cube',
             slug: "Best Seller-3",
-            image: "/images/Best Sellers/Rubic Cube.jpg",
+            image: "/images/Best-Sellers/Rubic-Cube.jpg",
             description: "This Cubestar Solve the Cube bundle includes 4 Rubik's Cubes, each at a different skill level. Start with the Cubestar Edge to build confidence. Then move up to the Rubik's Mini. Solved it? Try the classic Cubestar and level up to become an expert by solving the 4 x 4 Master puzzle. Each classic and super-addictive game puts players' skills to the test to see if they can make each of the sides into a solid color",
             price: 0,
             variety: '-',
@@ -3410,7 +3109,7 @@ const data = {
 
             name: '4 GB Card USB Flash Disk',
             slug: "Best Seller-4",
-            image: "/images/Best Sellers/4 GB Card USB Flash Disk (Can Be Customized Design, MOQ_ 100 pcs).jpeg",
+            image: "/images/Pen-Drive/1 (13).jpg",
             description: "credit card shaped pen drive,Supports Windows, Mac and all other Computer Operating System Fits Easily in your Pockets And wallets Full Customisation Can be Done Box optional SanDisk Alcor Chip with 5year replacement warranty Services:- Data loading and locking Speed:- 8 to 10mbp, Capacity :-2GB/4GB/8GB/16GB/32GB/64GB Supports Windows, Mac and allother Computer OperatingSystem Fits Easily in your Pockets Andwallets Full Customisation Can be Done Box optional SanDisk Alcor Chip with 5yearreplacement warranty Services:- Data loading andlocking Speed:- 8 to 10mbp",
             price: 0,
             variety: '-',
@@ -3419,24 +3118,12 @@ const data = {
 
 
         },
-        {
-
-            name: 'Act Fast! Grab The Top Prices! _ Air Purifier And Humidifier',
-            slug: "Best Seller-5",
-            image: "/images/Best Sellers/Act Fast! Grab The Top Prices On The Amazon Website This Week! _ Air Purifier And Humidifier.jpeg",
-            description: "An Ultrasonic Humidifier That Is Electronic And Can Help You Set Up A Spa-like Atmosphere In Your Home. This Device Runs Throughout The Day To Make Sure That Your Room Stays Moist Even During Sleep. Features: Auto-shutoff: Without Water, It Will Turn Off Automatically. Capacity: 550ml. This Aromatherapy Essential Oil Diffuser Provides A Unique As Well As Natural Means To Make The Most From Essential Oils In The Office And Home For Creating A Peaceful Ambiance. Very Useful To Create The Perfect Mood In Bedrooms Or Periodic Massage Sessions. The Perfect Solution To Diffuse Essential Oils At Whisper-quiet Operations. Run Time: Approximately 6 Hours. Remote Controlled. How To Use: Fill The Bottom Beaker With Water Up To The Level Indicated. Add A Few Drops Of Your Favorite Vhk Aroma Essential Oil. Plugin The Diffuser And Turn It On. Use Remote To Operate With Convenience. Precautions: Do Not Exceed The Maximum Fill Level. Do Not Use Oil Or Any Chemical Dropping On The Edge Of The Bottom Beaker Of The Diffuser. Avoid Placing The Product Near Electric Appliances. Cleaning: Its Important To Clean Your Aroma Diffuser After Every Use So That It Lasts Longer. Always Take Care Of Your Diffuser And Keep It Clean. Without Cleaning, It Might Cause The Essential Oils To Get Clogged And Thus Degrade Its Performance Over Time. Vhk Aroma Offers Pure And Natural Single Essential Oils And Blends. Our Oils Are Cruelty-free, Vegan, Free From Chemicals, Synthetics, Parabens.",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-
-        },
+       
         {
 
             name: 'Nulaxy Dual Folding Cell Phone Stand, Fully Adjustable Foldable Desktop Phone Holder Cradle Dock Compatible , All Phones',
             slug: "Best Seller-7",
-            image: "/images/Best Sellers/download (16).jpeg",
+            image: "/images/Best-Sellers/mobile-holder.jpeg",
             description: "Popstand Is A Multipurpose Mobile Phone Stand With A Pen Holder. It Is Made Up Of Premium Quality Metal And Is Rust-proof. The Anti-skid Design With Anti-skid Rubber Pads Prevents Accidental Slips And Protection From Scratches. Its Sturdy Yet Lightweight Design Gives You The Freedom To Carry It Anywhere Easily. It Has An Angular Design That Gives The Perfect 180 Viewing Angle Of Your Smartphone On The Desk.",
             price: 0,
             variety: '-',
@@ -3447,9 +3134,9 @@ const data = {
         },
         {
 
-            name: 'All White Giftbox',
+            name: 'Giftbox',
             slug: "Best Seller-8",
-            image: "/images/Best Sellers/All White Giftbox.jpeg",
+            image: "/images/Best-Sellers/Giftbox.jpeg",
             description: "Buy Decor Gift Sets - Zen Bundle White Marble Gift Box - Pepperfry Online - Discover peace and simplicity with our Zen Living Bundle Meditation Box an amazing choice for gifts and special occasions. This unique box is made in India with love and care by skilled artisans, using natural materials. Feel good knowing that your gift supports local craftsmanship and is a little piece of India. ",
             price: 0,
             variety: '-',
@@ -3466,7 +3153,7 @@ const data = {
 
             name: 'Acrylic Fridge Magnets',
             slug: "Fridge Magnet-1",
-            image: "/images/Fridge Magnets/Acrylic Fridge Magnets.jpeg",
+            image: "/images/Fridge-Magnets/Acrylic-Fridge-Magnets.jpeg",
             price: 20,
             variety: '-',
             code: '02',
@@ -3478,7 +3165,7 @@ const data = {
 
             name: 'Customize Fridge magnets',
             slug: "Fridge Magnet-2",
-            image: "/images/Fridge Magnets/Customize Fridge magnets.jpeg",
+            image: "/images/Fridge-Magnets/Customize-Fridge-magnets.jpeg",
             price: 20,
             variety: '-',
             code: '02',
@@ -3490,7 +3177,7 @@ const data = {
 
             name: 'Farmhouse Mason Jar Fridge Magnet, Wood Magnet, Bless this Home Magnet, Farmhouse Home Decor',
             slug: "Fridge Magnet-3",
-            image: "/images/Fridge Magnets/fridge magnet.jpeg",
+            image: "/images/Fridge-Magnets/fridge-magnet.jpeg",
             price: 20,
             variety: '-',
             code: '02',
@@ -3502,7 +3189,7 @@ const data = {
 
             name: 'Photo Magnets Custom Printing Magnet Gift for Him Black Friday Deals Holiday Decor Fridge Photo Magnets Idea Wedding Invitation',
             slug: "Fridge Magnet-4",
-            image: "/images/Fridge Magnets/Sunboard Fridge Magnet.jpeg",
+            image: "/images/Fridge-Magnets/Sunboard-Fridge-Magnet.jpeg",
             price: 20,
             variety: '-',
             code: '02',
@@ -3514,7 +3201,7 @@ const data = {
 
             name: 'Good Food Good Mood Sticker _ Cooking',
             slug: "Fridge Magnet-5",
-            image: "/images/Fridge Magnets/Good Food Good Mood Sticker _ Cooking.jpeg",
+            image: "/images/Fridge-Magnets/Good-Food-Good-Mood-Sticker _ Cooking.jpeg",
             price: 20,
             variety: '-',
             code: '02',
@@ -3531,7 +3218,7 @@ const data = {
 
             name: 'Square tea coaster',
             slug: "tea coaster -1",
-            image: "/images/Tea Coaster/MDF Tea Coasters/tea coaster.jpeg",
+            image: "/images/tea_coaster/tea-coaster.jpeg",
             category: "MDF Tea Coaster",
             price: 0,
             variety: '-',
@@ -3544,7 +3231,7 @@ const data = {
 
             name: 'Laser Cut Coaster Set with Holder',
             slug: "tea coaster -2",
-            image: "/images/Tea Coaster/MDF Tea Coasters/tea round coaster.jpeg",
+            image: "/images/tea_coaster/tea-round-coaster.jpeg",
             category: "MDF Tea Coaster",
             price: 0,
             variety: '-',
@@ -3557,73 +3244,8 @@ const data = {
 
             name: 'Personalised names coaster set',
             slug: "tea coaster -3",
-            image: "/images/Tea Coaster/MDF Tea Coasters/Personalised 'names' coaster set.jpeg",
+            image: "/images/tea_coaster/teacoster.jpeg",
             category: "MDF Tea Coaster",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'View Coasters by MyCoasterShop on Etsy',
-            slug: "tea coaster -4",
-            image: "/images/Tea Coaster/MDF Tea Coasters/View Coasters by MyCoasterShop on Etsy.jpeg",
-            category: "MDF Tea Coaster",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'All The Gear No Idea Mug & Coaster Set',
-            slug: "tea coaster -5",
-            image: "/images/Tea Coaster/Sunboard Sublimated Tea Coasters/All The Gear No Idea Mug & Coaster Set.jpeg",
-            category: "Sunboard Sublimated Tea Coaster",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Auntie My Best-Tea Coaster - Personalised Gift, Funny Gift, Birthday Gift, Best Auntie Gift',
-            slug: "tea coaster -6",
-            image: "/images/Sublimation Items/Tea Coaster/tea coaster-1.jpeg",
-            category: "Sunboard Sublimated Tea Coaster",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Best Mom Ever -Tea Coaster - Personalised Gift, Mothers day gift, Mom Gift, Mummy Gift from Daughter from Son',
-            slug: "tea coaster -7",
-            image: "/images/Sublimation Items/Tea Coaster/tea coaster-2.jpeg",
-            category: "Sunboard Sublimated Tea Coaster",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Busy Doing Nothing Coaster _ Not doing Anything Coaster _ Mug Coaster _ Coffee Coaster _ Tea Coaster _ Coaster Gift _ Illustrated Coaster',
-            slug: "tea coaster -8",
-            image: "/images/Sublimation Items/Tea Coaster/tea coaster-2.jpeg",
-            category: "Sunboard Sublimated Tea Coaster",
             price: 0,
             variety: '-',
             code: '02',
@@ -3632,11 +3254,12 @@ const data = {
             description: "High Quality",
         },
        
+       
         {
 
-            name: 'Kaleidoscope Scalloped Coaster Set',
-            slug: "tea coaster -10",
-            image: "/images/Tea Coaster/Sunboard Sublimated Tea Coasters/Kaleidoscope Scalloped Coaster Set.jpeg",
+            name: 'Auntie My Best-Tea Coaster - Personalised Gift, Funny Gift, Birthday Gift, Best Auntie Gift',
+            slug: "tea coaster -6",
+            image: "/images/tea_coaster/tea-coaster-4.jpeg",
             category: "Sunboard Sublimated Tea Coaster",
             price: 0,
             variety: '-',
@@ -3645,33 +3268,6 @@ const data = {
 
             description: "High Quality",
         },
-        {
-
-            name: 'Siyappa Coaster - Single',
-            slug: "tea coaster -11",
-            image: "/images/Tea Coaster/Sunboard Sublimated Tea Coasters/Siyappa Coaster - Single.jpeg",
-            category: "Sunboard Sublimated Tea Coaster",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Customised QR Code Laser Engraved Tags, Facebook, Instagram, Tiktok, Twitter, Table, Tags, Locker, Restaurant, Clubs',
-            slug: "tea coaster -12",
-            image: "/images/Tea Coaster/5x5 127mm X 127mm Customised QR Code Laser Engraved Tags, Facebook, Instagram, Tiktok, Twitter, Table, Tags, Locker, Restaurant, Clubs - Etsy UK.jpeg",
-            category: "QR Code Laser",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-
 
     ],
 
@@ -3681,7 +3277,7 @@ const data = {
 
             name: 'Silicone Bracelet Mockup _ Wristband ',
             slug: "Silicon Bands-1",
-            image: "/images/Silicon Bands/Silicone Bracelet Mockup _ Wristband (1).jpg",
+            image: "/images/Bands/band-1.jpg",
             category: "Silicon Bands",
             price: 0,
             variety: '-',
@@ -3694,7 +3290,7 @@ const data = {
 
             name: 'Save Big on Bundles! – Popular Christian Apparel',
             slug: "Silicon Bands-2",
-            image: "/images/Silicon Bands/Save Big on Bundles! – Popular Christian Apparel.jpg",
+            image: "/images/Bands/band-2.jpg",
             category: "Silicon Bands",
             price: 0,
             variety: '-',
@@ -3711,7 +3307,7 @@ const data = {
 
             name: 'Square Brochure Mockup PSD Set - Good Mockups',
             slug: "brochure-1",
-            image: "/images/Printing/Broucher/Free Square Brochure Mockup PSD Set - Good Mockups.jpeg",
+            image: "/images/Printing/Broucher/brochures-1.jpeg",
             category: "brochure",
             price: 0,
             variety: '-',
@@ -3724,7 +3320,7 @@ const data = {
 
             name: 'I will design an awesome postcard for you',
             slug: "brochures-2",
-            image: "/images/Printing/Broucher/I will design an awesome postcard for you.jpeg",
+            image: "/images/Printing/Broucher/brochures-2.jpeg",
             category: "brochure",
             price: 0,
             variety: '-',
@@ -3737,7 +3333,7 @@ const data = {
 
             name: 'Magazine ad Design',
             slug: "brochures-3",
-            image: "/images/Printing/Broucher/Magazine ad Design.jpeg",
+            image: "/images/Printing/Broucher/brochures-3.jpeg",
             category: "brochure",
             price: 0,
             variety: '-',
@@ -3754,7 +3350,7 @@ const data = {
 
             name: 'Advancing Bitcoin Conference - Pull up Banner',
             slug: "standee-1",
-            image: "/images/Printing/Roll Up standee/Advancing Bitcoin Conference - Pull up Banner.jpeg",
+            image: "/images/Printing/standee/standi-1.jpeg",
             category: "standee",
             price: 0,
             variety: '-',
@@ -3767,7 +3363,7 @@ const data = {
 
             name: 'Roll Up standee',
             slug: "standee-2",
-            image: "/images/Printing/Roll Up standee/download (9).jpeg",
+            image: "/images/Printing/standee/standi-2.jpeg",
             category: "standee",
             price: 0,
             variety: '-',
@@ -3776,19 +3372,7 @@ const data = {
 
             description: "High Quality",
         },
-        {
-
-            name: 'Furniture Roll Up Banner Template AI, EPS',
-            slug: "standee-3",
-            image: "/images/Printing/Roll Up standee/Furniture Roll Up Banner Template AI, EPS.jpeg",
-            category: "standee",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+      
 
     ],
     occasions: [
@@ -3797,7 +3381,7 @@ const data = {
 
             name: 'he Wallet Store Personalized Workday Wonder Unisex Gift Set',
             slug: "occasion-1",
-            image: "/images/Giftsets/The Wallet Store Personalized Workday Wonder Unisex Gift Set.jpeg",
+            image: "/images/Giftsets/Giftset-1.jpeg",
             price: 0,
             rating: 0,
             variety: '-',
@@ -3808,347 +3392,8 @@ const data = {
     ],
     printings: [
 
-        {
-
-            name: 'Square Brochure Mockup PSD Set - Good Mockups',
-            slug: "brochure-1",
-            image: "/images/Printing/Broucher/Free Square Brochure Mockup PSD Set - Good Mockups.jpeg",
-            category: "brochure",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'I will design an awesome postcard for you',
-            slug: "brochures-2",
-            image: "/images/Printing/Broucher/I will design an awesome postcard for you.jpeg",
-            category: "brochure",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Magazine ad Design',
-            slug: "brochures-3",
-            image: "/images/Printing/Broucher/Magazine ad Design.jpeg",
-            category: "brochure",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Advancing Bitcoin Conference - Pull up Banner',
-            slug: "standee-1",
-            image: "/images/Printing/Roll Up standee/Advancing Bitcoin Conference - Pull up Banner.jpeg",
-            category: "standee",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Roll Up standee',
-            slug: "standee-2",
-            image: "/images/Printing/Roll Up standee/download (9).jpeg",
-            category: "standee",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Furniture Roll Up Banner Template AI, EPS',
-            slug: "standee-3",
-            image: "/images/Printing/Roll Up standee/Furniture Roll Up Banner Template AI, EPS.jpeg",
-            category: "standee",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'T-shirt Printing',
-            slug: "tshirt-1",
-            image: "/images/T shirt Printing/4 3D T-Shirt Mockups.jpeg",
-            category: "standee",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'T-shirt Printing Annual Camp and all other',
-            slug: "tshirt-2",
-            image: "/images/T shirt Printing/t-shirts6.jpg",
-            category: "standee",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Branding Desarrollo En El Campo Projects __ Photos, videos, logos, illustrations and branding',
-            slug: "tshirt-3",
-            image: "/images/T shirt Printing/t-shirt1.jpeg",
-            category: "standee",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'T-shirt Printing/Kion',
-            slug: "tshirt-4",
-            image: "/images/T shirt Printing/Kion.jpeg",
-            category: "standee",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Mockup Sweatshirt weiss Gildan 18000 Mock up Mann Print on demand POD - Etsy_de',
-            slug: "tshirt-5",
-            image: "/images/T shirt Printing/t-shirts-2.jpeg",
-            category: "standee",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'T-Shirt navy Bella Canvas 3001 Gildan 5000 Mock up hängend Kleiderstange deko - Etsy_de',
-            slug: "tshirt-6",
-            image: "/images/T shirt Printing/t-shirts-4.jpeg",
-            category: "standee",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-
     ],
     teachaccesories: [
-
-        {
-
-            name: 'Ballpoint Pen',
-            slug: "plasticpen1",
-            image: "/images/Stationery/Ballpoint Pen.jpeg",
-            category: "Plastic Pen",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-        {
-
-            name: 'Plastic Ballpoints Pen',
-            slug: "plasticpen2",
-            image: "/images/Stationery/Plastic Ballpoints Pen.jpeg",
-            category: "Plastic Pen",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-        {
-
-            name: 'Gel Pen Simple Ins 0_5mm Black Signature Pen',
-            slug: "plasticpen3",
-            image: "/images/Stationery/Ten-pack Gel Pen Simple Ins 0_5mm Black Signature Pen.jpeg",
-            category: "Plastic Pen",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-
-
-
-        {
-
-            name: 'Gun Metal Pen',
-            slug: "metalpane1",
-            image: "/images/Stationery/Gun Metal Pen.jpeg",
-            category: "Metal Pen",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-        {
-
-            name: 'Ballpoint Pen',
-            slug: "metalpane2",
-            image: "/images/Stationery/Ballpoint Pen (2).jpeg",
-            category: "Metal Pen",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-        {
-
-            name: 'Metal Pen',
-            slug: "metalpane3",
-            image: "/images/Stationery/Metal Pen.jpeg",
-            category: "Metal Pen",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-
-        {
-
-            name: 'Diary1',
-            slug: "diarySlug1",
-            image: "/images/Diaries/1 (15).jpg",
-            category: "Diary",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-        {
-
-            name: 'Diary2',
-            slug: "diarySlug2",
-            image: "/images/Diaries/diary-2.jpeg",
-            category: "Diary",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-        {
-
-            name: 'Diary3',
-            slug: "diarySlug3",
-            image: "/images/Diaries/diary-3.png",
-            category: "Diary",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-        {
-
-            name: 'Diary4',
-            slug: "diarySlug4",
-            image: "/images/Diaries/Screenshot 2024-01-05 221053.png",
-            category: "Diary",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-
-        {
-            name: 'Notes Notebook',
-            slug: "notebook-1",
-            image: "/images/Notebooks/note.jpg",
-            category: 'Notebook',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-            name: 'Green Student Notebook',
-            slug: "notebook-2",
-            image: "/images/Notebooks/Notebook.jpg",
-            category: 'Notebook',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-            name: 'Student Notebook',
-            slug: "notebook-3",
-            image: "/images/Notebooks/Untitled-4.jpg",
-            category: 'Notebook',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
 
     ],
 
@@ -4156,7 +3401,7 @@ const data = {
         {
             name: 'Pillow Covers/Trendy Best Friends Photo & Quote Besties Throw Pillow.',
             slug: "sublimation item-1",
-            image: "/images/Sublimation Items/Pillow Covers/Trendy Best Friends Photo & Quote Besties Throw Pillow.jpg",
+            image: "/images/sublimation_item/pollo-coaster.jpg",
             category: 'Sublimation ITEMS',
             price: 0,
             countInStock: 50,
@@ -4168,7 +3413,7 @@ const data = {
         {
             name: 'Auntie My Best-Tea Coaster - Personalised Gift, Funny Gift, Birthday Gift, Best Auntie Gift.',
             slug: "sublimation item-2",
-            image: "/images/Tea Coaster/Sunboard Sublimated Tea Coasters/sunboard tea coaster.jpeg",
+            image: "/images/sublimation_item/tea coaster-1.jpeg",
             category: 'Sublimation ITEMS',
             price: 0,
             variety: '-',
@@ -4177,42 +3422,7 @@ const data = {
 
             description: "High Quality",
         },
-        {
-            name: 'Personalised Gift, Mothers day gift, Mom Gift, Mummy Gift from Daughter from Son.',
-            slug: "sublimation item-3",
-            image: "/images/Tea Coaster/Sunboard Sublimated Tea Coasters/sunboard tea coaster-2.jpeg",
-            category: 'Sublimation ITEMS',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-            name: 'Funny Coaster Gift For Mum, Mum Birthday Gift, Mothers day Idea,Novelty Gift Mum, Humor Mum Present.',
-            slug: "sublimation item-4",
-            image: "/images/Sublimation Items/Tea Coaster/tea coaster-3.jpeg",
-            category: 'Sublimation ITEMS',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-            name: 'Siyappa Coaster - Single.',
-            slug: "sublimation item-5",
-            image: "/images/Sublimation Items/Tea Coaster/Siyappa Coaster - Single.jpeg",
-            category: 'Sublimation ITEMS',
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+    
 
     ],
     containers: [
@@ -4235,7 +3445,7 @@ const data = {
         {
             name: 'Monitor Stand Riser,Wood & Acrylic Computer Monitor Stand with LED Light,Desk Accessories Desktop Organizer Stand for Computer,Laptop,Printer,PC & TV Screen Riser',
             slug: "desk stand -1",
-            image: "/images/desk stand.jpeg",
+            image: "/images/desk-stand.jpeg",
             category: 'Sublimation ITEMS',
             price: 0,
             variety: '-',
@@ -4252,7 +3462,7 @@ const data = {
         {
             name: 'Butterfly Tote Bag, gift for mom, gifts, cute bag, holy bag',
             slug: "Tote Bag -1",
-            image: "/images/Bags/Butterfly Tote Bag.jpeg",
+            image: "/images/Bags/Butterfly-Tote-Bag.jpeg",
             category: 'Tote Bag',
             price1: 45,
             price2: 58,
@@ -4267,7 +3477,7 @@ const data = {
         {
             name: 'Custom Literature Tote Bag, Book Lover Canvas Bag, Literature Student Graduation Gift, Personalized Tote Bag for My Best Friend',
             slug: "Tote Bag -2",
-            image: "/images/Bags/Custome Tote Bag.jpeg",
+            image: "/images/Bags/Custome-Tote-Bag.jpeg",
             category: 'Tote Bag',
             price1: 45,
             price2: 58,
@@ -4286,7 +3496,7 @@ const data = {
         {
             name: 'natural white jute bag',
             slug: "Jute Bag -1",
-            image: "/images/Bags/Jute bags/2.jpg",
+            image: "/images/Bags/Jute-bags/2.jpg",
             category: 'Jute Bag',
             variety1: '12*12*6 Inch',
             price1: 65,
@@ -4299,7 +3509,7 @@ const data = {
         {
             name: 'natural jute bag',
             slug: "Jute Bag -2",
-            image: "/images/Bags/Jute bags/4.jpg",
+            image: "/images/Bags/Jute-bags/4.jpg",
             category: 'Jute Bag',
             variety1: '12*12*6 Inch',
             price1: 65,
@@ -4312,7 +3522,7 @@ const data = {
         {
             name: 'white jute bag',
             slug: "Jute Bag -3",
-            image: "/images/Bags/Jute bags/JU-WHITTAPE_b.jpg",
+            image: "/images/Bags/Jute-bags/JU-WHITTAPE_b.jpg",
             category: 'Jute Bag',
             variety1: '12*12*6 Inch',
             price1: 65,
@@ -4326,7 +3536,7 @@ const data = {
         {
             name: 'Jute Mini Gift Bag  (Black_Black)',
             slug: "Jute Bag -4",
-            image: "/images/Bags/Jute bags/Jute Mini Gift Bag  (Black_Black).jpeg",
+            image: "/images/Bags/Jute-bags/jute-mini-bag.jpeg",
             category: 'Jute Bag',
             variety1: '12*12*6 Inch',
             price1: 65,
@@ -4361,7 +3571,7 @@ const data = {
             slug: 'bagpack- 2',
             category: 'backpack',
             material: 'backpack',
-            image: '/images/Bags/Bagpack/Custom Zusa Tech Backpack.jpeg',
+            image: '/images/Bags/Bagpack/bagpack-2.jpeg',
             variety: '-',
             code: 'FM-916',
             price: 120,
@@ -4370,26 +3580,13 @@ const data = {
             numReviews: 0,
             description: 'High Quality',
         },
-        {
-            name: 'Dunlop CX Performance Tennis Backpack (Black_Red)',
-            slug: 'bagpack- 3',
-            category: 'backpack',
-            material: 'backpack',
-            image: '/images/Bags/Bagpack/Dunlop CX Performance Tennis Backpack (Black_Red).jpeg',
-            variety: '-',
-            code: 'FM-916',
-            price: 120,
-            countInStock: 15,
-            rating: 0,
-            numReviews: 0,
-            description: 'High Quality',
-        },
+       
         {
             name: 'Mochila Unissex Notebook Com Cadeado, Entrada Para Usb_ Fone De Ouvido',
             slug: 'bagpack- 4',
             category: 'backpack',
             material: 'backpack',
-            image: '/images/Bags/Bagpack/Mochila Unissex Notebook Com Cadeado, Entrada Para Usb_ Fone De Ouvido.jpeg',
+            image: '/images/Bags/Bagpack/bagpack-3.jpeg',
             variety: '-',
             code: 'FM-916',
             price: 120,
@@ -4398,20 +3595,7 @@ const data = {
             numReviews: 0,
             description: 'High Quality',
         },
-        {
-            name: 'Premium PSD _ Black bag with logo mockup isolated',
-            slug: 'bagpack- 5',
-            category: 'backpack',
-            material: 'backpack',
-            image: '/images/Bags/Bagpack/Premium PSD _ Black bag with logo mockup isolated.jpeg',
-            variety: '-',
-            code: 'FM-916',
-            price: 120,
-            countInStock: 15,
-            rating: 0,
-            numReviews: 0,
-            description: 'High Quality',
-        },
+ 
 
 
     ],
@@ -4419,7 +3603,7 @@ const data = {
         {
             name: 'card Pen Drive',
             slug: "card pen drive -1",
-            image: "/images/Pen Drive/1 (13).jpg",
+            image: "/images/Pen-Drive/1 (13).jpg",
             category: 'Card Pen Drive',
             price1: 120,
             price2: 130,
@@ -4435,7 +3619,7 @@ const data = {
         {
             name: 'sb_cards_on_a_wooden_surface_mockup',
             slug: "card pen drive -2",
-            image: "/images/Pen Drive/Usb_cards_on_a_wooden_surface_mockup.jpg",
+            image: "/images/Pen-Drive/wooden-pendrive.webp",
             category: 'Card Pen Drive',
             price1: 120,
             price2: 130,
@@ -4448,54 +3632,7 @@ const data = {
 
             description: "High Quality",
         },
-        {
-            name: 'Business Card Pen Drive - Round',
-            slug: "card pen drive -3",
-            image: "/images/Pen Drive/circular_card_grande.webp",
-            category: 'Crad Pen Drive',
-            price1: 120,
-            price2: 130,
-            price3: 140,
-            variety1: '16GB',
-            variety2: '32GB',
-            variety3: '64GB',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-            name: 'circular_card_grande',
-            slug: "card pen drive -4",
-            image: "/images/Pen Drive/round-batch-pen-drive.jpg",
-            category: 'Crad Pen Drive',
-            price1: 120,
-            price2: 130,
-            price3: 140,
-            variety1: '16GB',
-            variety2: '32GB',
-            variety3: '64GB',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-            name: 'Wooden Card Eco USB Pen Drive',
-            slug: "card pen drive -5",
-            image: "/images/Pen Drive/Wooden Card Pen Drive.webp",
-            category: 'Crad Pen Drive',
-            price1: 120,
-            price2: 130,
-            price3: 140,
-            variety1: '16GB',
-            variety2: '32GB',
-            variety3: '64GB',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+       
     ],
 
     calenders: [
@@ -4514,7 +3651,7 @@ const data = {
         {
             name: 'Seed Paper Desk Calendar',
             slug: "calenders -2",
-            image: "/images/Wodden  & Sustainable  items/wooden Calender.jpeg",
+            image: "/images/Printing/calenders/wooden-Calender.jpeg",
             category: 'calenders',
             price: 0,
             variety: '-',
@@ -4528,7 +3665,7 @@ const data = {
         {
             name: 'Premium Vector _ Business flyer template with photo',
             slug: "flyer_pamplate -2",
-            image: "/images/Printing/flyer_pamplate/Premium Vector _ Business flyer template with photo.jpeg",
+            image: "/images/Printing/flyer_pamplate/flyer.jpeg",
             category: 'flyer_pamplate',
             price: 0,
             variety: '-',
@@ -4552,11 +3689,11 @@ const data = {
             description: "High Quality",
         },
     ],
-    folders: [
+    folders: [  
         {
             name: 'documents folder',
             slug: "folders -1",
-            image: "/images/Printing/folder/documents folder.jpeg",
+            image: "/images/Printing/folder/documents-folder.jpeg",
             category: 'folders',
             price: 0,
             variety: '-',
@@ -4580,7 +3717,7 @@ const data = {
         {
             name: 'Smead, Smd17634, File Folders with Reinforced Tab, 100 _ Box, Pink',
             slug: "folders -3",
-            image: "/images/Printing/folder/Smead, Smd17634, File Folders with Reinforced Tab, 100 _ Box, Pink.jpeg",
+            image: "/images/Printing/folder/folder-2.jpeg",
             category: 'folders',
             price: 0,
             variety: '-',
@@ -4594,7 +3731,7 @@ const data = {
         {
             name: 'Catalogue SM Travel',
             slug: "magzines -1",
-            image: "/images/Printing/magzine/Catalogue SM Travel.jpeg",
+            image: "/images/Printing/magzine/magzine.jpeg",
             category: 'magzines',
             price: 0,
             variety: '-',
@@ -4608,7 +3745,7 @@ const data = {
         {
             name: 'Human Resource Training Manual Template Visme',
             slug: "Training Mannuals -1",
-            image: "/images/Printing/training Mannual/Human Resource Training Manual Template Visme.jpeg",
+            image: "/images/Printing/training Mannual/trainning-mannual.jpeg",
             category: 'Training Mannuals',
             price: 0,
             variety: '-',
@@ -4622,7 +3759,7 @@ const data = {
         {
             name: 'Clean Annual Report Brochure Template',
             slug: "Annual Report -1",
-            image: "/images/Printing/Annual Report/Clean Annual Report Brochure Template.jpeg",
+            image: "/images/Printing/Annual Report/annual-report.jpeg",
             category: 'Annual Report',
             price: 0,
             variety: '-',
@@ -4636,7 +3773,7 @@ const data = {
         {
             name: 'Premium Vector _ Letterhead',
             slug: "Document Printing -1",
-            image: "/images/Printing/document printing/Premium Vector _ Letterhead.jpeg",
+            image: "/images/Printing/document-printing.jpeg",
             category: 'Document Printing',
             price: 0,
             variety: '-',
@@ -4647,22 +3784,11 @@ const data = {
         },
     ],
     project_reports: [
-        {
-            name: 'Daily Construction Report Templates - PDF, Google Docs,  MS Word, Apple Pages',
-            slug: "Project Report -1",
-            image: "/images/Printing/project report/project report -1.jpeg",
-            category: 'Project Report',
-            price: 0,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+        
         {
             name: 'Project Completion Report Templates in Word, Pages, Google Docs',
             slug: "Project Report -2",
-            image: "/images/Printing/project report/project report -2.jpeg",
+            image: "/images/Printing/project-report.jpeg",
             category: 'Project Report',
             price: 0,
             variety: '-',
@@ -4688,7 +3814,7 @@ const data = {
         {
             name: 'Laptop Sticker Mockup PSD',
             slug: "Stickers -2",
-            image: "/images/Printing/sticker/Laptop Sticker Mockup PSD.jpeg",
+            image: "/images/Printing/sticker/sticker-1(3).jpeg",
             category: 'Stickers',
             price: 0,
             variety: '-',
@@ -4700,7 +3826,7 @@ const data = {
         {
             name: 'Time To Travel Sticker _ Time To Travel Water Bottle Sticker _ Travel Laptop Sticker _ Time To Travel Car Window Decal _ Colorful Lettering',
             slug: "Stickers -3",
-            image: "/images/Printing/sticker/sticker-1.jpeg",
+            image: "/images/Printing/sticker/sticker.webp",
             category: 'Stickers',
             price: 0,
             variety: '-',
@@ -4712,7 +3838,7 @@ const data = {
         {
             name: 'Photo Magnets Custom Printing Magnet Gift for Him Black Friday Deals Holiday Decor Fridge Photo Magnets Idea Wedding Invitation',
             slug: "Stickers -4",
-            image: "/images/Printing/sticker/sticker.webp",
+            image: "/images/Printing/sticker/sticker-2.jpeg",
             category: 'Stickers',
             price: 0,
             variety: '-',
@@ -4726,7 +3852,7 @@ const data = {
         {
             name: 'A5 Notepads Printing in UK',
             slug: "Notepad -1",
-            image: "/images/Printing/Notepad/A5 Notepads Printing in UK.jpeg",
+            image: "/images/Printing/Notepad/notepad-1.jpeg",
             category: 'Notepad',
             price: 0,
             variety: '-',
@@ -4734,26 +3860,14 @@ const data = {
             countInStock: 50,
 
             description: "High Quality",
-        },
-        {
-            name: 'Kraft Notepad Mockup Set, Sketchbook',
-            slug: "Notepad -2",
-            image: "/images/Printing/Notepad/Kraft Notepad Mockup Set, Sketchbook.jpeg",
-            category: 'Notepad',
-            price: 0,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+        }
       
     ],
     sippers: [
         {
             name: 'Anti skit bottles',
             slug: "sipper -1",
-            image: "/images/Sippers/borosillicate/Anti skit bottles.jpeg",
+            image: "/images/Sippers/borosillicate/Anti-skit-bottles.jpeg",
             category: 'sipper',
             price: 0,
             variety: '-',
@@ -4765,7 +3879,7 @@ const data = {
         {
             name: 'Borosilicate Glass Bottle',
             slug: "sipper -2",
-            image: "/images/Sippers/Borosilicate Glass Bottle.jpeg",
+            image: "/images/Sippers/borosillicate/Borosilicate-Glass-Bottle.jpeg",
             category: 'sipper',
             price: 0,
             variety: '-',
@@ -4777,7 +3891,7 @@ const data = {
         {
             name: 'Nutrition Shaker Bottle',
             slug: "sipper -3",
-            image: "/images/Sippers/Nutrition Shaker Bottle.jpeg",
+            image: "/images/Sippers/Nutrition-Shaker-Bottle.jpeg",
             category: 'sipper',
             price: 0,
             variety: '-',
@@ -4789,7 +3903,7 @@ const data = {
         {
             name: 'Plastic (Food Grade) BPA free',
             slug: "sipper -4",
-            image: "/images/Sippers/Plastic (Food Grade) BPA free.jpg",
+            image: "/images/Sippers/sipper-bottle-1.jpg",
             category: 'sipper',
             price: 0,
             variety: '-',
@@ -4801,7 +3915,7 @@ const data = {
         {
             name: 'Shakker Bottle',
             slug: "sipper -5",
-            image: "/images/Sippers/Shakker Bottle.jpeg",
+            image: "/images/Sippers/Shakker-Bottle.jpeg",
             category: 'sipper',
             price: 0,
             variety: '-',
@@ -4813,7 +3927,7 @@ const data = {
         {
             name: 'Stainless Steel ( Double Wall )',
             slug: "sipper -6",
-            image: "/images/Sippers/Stainless Steel ( Double Wall ).jpg",
+            image: "/images/Sippers/Stainless-Stee-(Double-Wall).jpg",
             category: 'sipper',
             price: 0,
             variety: '-',
@@ -4825,7 +3939,7 @@ const data = {
         {
             name: 'Stainless Steel',
             slug: "sipper -7",
-            image: "/images/Sippers/Stainless Steel -2.png",
+            image: "/images/Sippers/Stainless-Steel.png",
             category: 'sipper',
             price: 0,
             variety: '-',
@@ -4834,22 +3948,11 @@ const data = {
 
             description: "High Quality",
         },
-        {
-            name: 'Stainless Steel- Bomboo',
-            slug: "sipper -8",
-            image: "/images/Sippers/Stainless Steel- Bomboo.jpg",
-            category: 'sipper',
-            price: 0,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+      
         {
             name: 'Stainless-steel -Glass Sipper',
             slug: "sipper -9",
-            image: "/images/Sippers/Stainless-steel -Glass Sipper.jpg",
+            image: "/images/Sippers/Stainless-steel-Glass-Sipper.jpg",
             category: 'sipper',
             price: 0,
             variety: '-',
@@ -4861,7 +3964,7 @@ const data = {
         {
             name: 'Stainless-steel -Glass Sipper',
             slug: "sipper -10",
-            image: "/images/Sippers/Stainless-steel2 -Glass Sipper.jpg",
+            image: "/images/Sippers/Stainless-steel2-Glass-Sipper.jpg",
             category: 'sipper',
             price: 0,
             variety: '-',
@@ -4887,7 +3990,7 @@ const data = {
         {
             name: 'amily Matching Love Shirt, Valentines Day Mommy Daddy Baby Tee, Mothers Day Tees, New Mama Dada Shirt, Fathers Day Outfit, Baby Shower Gift',
             slug: "family t-shirts -1",
-            image: "/images/T-shirts/family tishirts/Family Matching Love Shirt, Valentines Day Mommy Daddy Baby Tee, Mothers Day Tees, New Mama Dada Shirt, Fathers Day Outfit, Baby Shower Gift.jpeg",
+            image: "/images/T-shirts/family-tishirts/family-tshirt.jpeg",
             category: 'family t-shirts',
             price: 0,
             variety: '-',
@@ -4901,7 +4004,7 @@ const data = {
         {
             name: 'T-Shirt Men Cotton T Shirt Full Sleeve',
             slug: "full sleave t-shirts -1",
-            image: "/images/T-shirts/full sleave t-shirts/T-Shirt Men Cotton T Shirt Full Sleeve - White _ L.jpeg",
+            image: "/images/T-shirts/full-sleave_t-shirts/full-sleave.jpeg",
             category: 'full sleave t-shirts',
             price: 0,
             variety: '-',
@@ -4915,7 +4018,7 @@ const data = {
         {
             name: 'Young Womens Tees _ Juniors Tops, Graphic Tees, Basics',
             slug: "girls t-shirts -1",
-            image: "/images/T-shirts/girls tshirts/Young Women's Tees _ Juniors Tops, Graphic Tees, Basics.jpeg",
+            image: "/images/T-shirts/girls-tshirts/girl-tshirt.jpeg",
             category: 'girls t-shirts',
             price: 0,
             variety: '-',
@@ -4929,7 +4032,7 @@ const data = {
         {
             name: 'Valentines Day Shirts  Custom Couple Shirts  Husband And Wife Matching Shirts  Matching T Shirts For Couples  His And Her Valentine Shirts  Husband And Wife Shirt',
             slug: "couple t-shirts -1",
-            image: "/images/T-shirts/couple t-shirts/Valentines Day Shirts  Custom Couple Shirts  Husband And Wife Matching Shirts  Matching T Shirts For Couples  His And Her Valentine Shirts  Husband And Wife Shirt.jpeg",
+            image: "/images/T-shirts/couple_t-shirts/couple-tshirt.jpeg",
             category: 'couple t-shirts',
             price: 0,
             variety: '-',
@@ -4943,7 +4046,7 @@ const data = {
         {
             name: 'Mens adidas Stripe Printing Sports Short Sleeve Black T-Shirt',
             slug: "sports t-shirts -1",
-            image: "/images/T-shirts/sports tshirts/Men's adidas Stripe Printing Sports Short Sleeve Black T-Shirt HM5150.jpeg",
+            image: "/images/T-shirts/sports-tshirts/sports-tshirt.jpeg",
             category: 'sports t-shirts',
             price: 0,
             variety: '-',
@@ -4957,7 +4060,7 @@ const data = {
         {
             name: 'Polo Shirts for Men Short Sleeve Moisture Wicking Summer Casual ',
             slug: "polo t-shirts -1",
-            image: "/images/T-shirts/polo t-shirts/V VALANCH Golf Polo Shirts for Men Short Sleeve Moisture Wicking Summer Casual Collared Shirts Tennis Polo.jpeg",
+            image: "/images/T-shirts/polo_t-shirts/polo-tshirt.jpeg",
             category: 'polo t-shirts',
             price: 0,
             variety: '-',
@@ -4971,7 +4074,7 @@ const data = {
         {
             name: 'Nike Ss Youth Park VI Sportshirt Kinderen - Midnight Navy_Wit',
             slug: "dry fit t-shirts -1",
-            image: "/images/T-shirts/Dry Fit Tshirts/Nike Ss Youth Park VI Sportshirt Kinderen - Midnight Navy_Wit - Maat 128.jpeg",
+            image: "/images/T-shirts/Dry-Fit/dry-fit.jpeg",
             category: 'dry fit t-shirts',
             variety: '-',
             code: 'FM-916',
@@ -4985,7 +4088,7 @@ const data = {
         {
             name: 'Mens Hoodie Yellow Khaki Orange Red White Hooded Color Block Casual Cotton Cool Designer Sportswear Winter Fall Clothing Apparel Hoodies Sweatshirts',
             slug: "hoodies -1",
-            image: "/images/T-shirts/hoodies/Men's Hoodie Yellow Khaki Orange Red White Hooded Color Block Casual Cotton Cool Designer Sportswear Winter Fall Clothing Apparel Hoodies Sweatshirts  Long Sleeve _ Sprin.jpeg",
+            image: "/images/T-shirts/hoodies/hoodies-1.jpeg",
             category: 'hoodies',
             price: 0,
             variety1: 'M',
@@ -5000,7 +4103,7 @@ const data = {
         {
             name: 'hoodies with sticker',
             slug: "hoodies -2",
-            image: "/images/T-shirts/hoodies/hoodies with sticker.webp",
+            image: "/images/T-shirts/hoodies/hoodies-2.webp",
             category: 'hoodies',
             price: 0,
             variety1: 'M',
@@ -5018,7 +4121,7 @@ const data = {
         {
             name: 'Mens Hats for Sale',
             slug: "cap -1",
-            image: "/images/T-shirts/cap/Men's Hats for Sale - eBay.jpeg",
+            image: "/images/T-shirts/cap/cap-1.jpeg",
             category: 'cap',
             price: 0,
             variety: '-',
@@ -5048,7 +4151,7 @@ const data = {
         {
             name: 'Modèle de certificat de diplôme dor bleu élégant _ Vecteur Premium',
             slug: "certificate -1",
-            image: "/images/Certificates/Premium Vector _ Elegant diploma template.jpeg",
+            image: "/images/Certificates/certificate.jpeg",
             category: 'certificate',
             price: 0,
             variety: '-',
@@ -5063,7 +4166,7 @@ const data = {
         {
             name: 'Roupas Femininas & Masculinas, Loja de Moda Online',
             slug: "cushion cover -1",
-            image: "/images/Cushion Covers/Roupas Femininas & Masculinas, Loja de Moda Online.jpeg",
+            image: "/images/Cushion-Covers/cover.jpeg",
             category: 'cushion cover',
             price: 0,
             variety: '-',
@@ -5072,25 +4175,14 @@ const data = {
 
             description: "High Quality",
         },
-        {
-            name: 'Multi Ideas Cover',
-            slug: "cushion cover -2",
-            image: "/images/cushion/cushion cover1.jpg",
-            category: 'cushion cover',
-            price: 0,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+      
     ],
     cushions: [
 
         {
             name: 'Living Room Ideas That Will Make',
             slug: "cushion -1",
-            image: "/images/cushion/15 French Country Living Room Ideas That Will Make You Say “Ooh La La!”.jpeg",
+            image: "/images/cushion/cushion-cover.jpg",
             category: 'cushion',
             price: 0,
             variety: '-',
@@ -5102,7 +4194,7 @@ const data = {
         {
             name: 'Classic Bamboo Trellis Pattern 260 Black And Yellow Throw Pillow',
             slug: "cushion -2",
-            image: "/images/cushion/Classic Bamboo Trellis Pattern 260 Black And Yellow Throw Pillow - Cover (16_ x 16_) With Pillow Insert - Indoor Pillow.jpeg",
+            image: "/images/cushion/cushion-cover2.jpeg",
             variety: '-',
             code: 'FM-916',
             category: 'cushion',
@@ -5110,26 +4202,14 @@ const data = {
             countInStock: 50,
 
             description: "High Quality",
-        },
-        {
-            name: 'Multi Cover Cushion',
-            slug: "cushion -3",
-            image: "/images/cushion/cushion cover2.jpeg",
-            variety: '-',
-            code: 'FM-916',
-            category: 'cushion',
-            price: 0,
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+        }
     ],
     magnetic_photoframes: [
 
         {
             name: 'Wrought Studio Table magnétique',
             slug: "Magnetic Photo Frame -1",
-            image: "/images/Photo Frame/magnetic photo frame/Wrought Studio Table magnétique 8,5 x 11 po.jpeg",
+            image: "/images/photoframe/magnetic-photo-frame.jpeg",
             category: 'Magnetic Photo Frame',
             price: 0,
             variety: '-',
@@ -5144,7 +4224,7 @@ const data = {
         {
             name: 'Acrylic Photo Frame',
             slug: "Acrylic Photo Frame -1",
-            image: "/images/Photo Frame/Acrylic Photo/download (15).jpeg",
+            image: "/images/photoframe/acrylic.jpeg",
             category: 'Acrylic Photo Frame',
             price: 0,
             variety: '-',
@@ -5159,7 +4239,7 @@ const data = {
         {
             name: 'Creative Id Card Design Template',
             slug: "ID and landyard -1",
-            image: "/images/IDs and Landyards/Creative Id Card Design Template.jpg",
+            image: "/images/IDs/id-1.jpg",
             category: 'ID and landyard',
             price: 30,
             variety: '-',
@@ -5171,19 +4251,8 @@ const data = {
         {
             name: 'Creative Id Card Design Template',
             slug: "ID and landyard -2",
-            image: "/images/IDs and Landyards/download (14).jpeg",
+            image: "/images/IDs/id-2.jpeg",
             category: 'ID and landyard',
-            price: 30,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-            name: 'designs, themes, templates and downloadable graphic elements on Dribbble',
-            slug: "ID and landyard -3",
-            image: "/images/IDs and Landyards/Download designs, themes, templates and downloadable graphic elements on Dribbble.jpeg",
             price: 30,
             variety: '-',
             code: 'FM-916',
@@ -5194,7 +4263,7 @@ const data = {
         {
             name: 'Event Badges Template',
             slug: "ID and landyard -4",
-            image: "/images/IDs and Landyards/Event Badges Template.jpeg",
+            image: "/images/IDs/id-3.jpeg",
             price: 30,
             variety: '-',
             code: 'FM-916',
@@ -5205,29 +4274,18 @@ const data = {
         {
             name: 'lanyard ID badge mockup',
             slug: "ID and landyard -5",
-            image: "/images/IDs and Landyards/Free lanyard ID badge mockup.jpeg",
+            image: "/images/IDs/id-4.jpeg",
             price: 30,
             variety: '-',
             code: 'FM-916',
             countInStock: 50,
 
-            description: "High Quality",
+            description: "High Quality",    
         },
         {
             name: 'Id cards template with photo abstract style',
             slug: "ID and landyard -6",
-            image: "/images/IDs and Landyards/Free Vector _ Id cards template with photo abstract style.jpg",
-            price: 30,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-            name: 'Linker Logic',
-            slug: "ID and landyard -7",
-            image: "/images/IDs and Landyards/Linker Logic.jpeg",
+            image: "/images/IDs/id-5.jpg",
             price: 30,
             variety: '-',
             code: 'FM-916',
@@ -5241,7 +4299,7 @@ const data = {
         {
             name: 'Best Eco Friendly Zero Waste School Supplies - The Eco Hub',
             slug: "Pencil -1",
-            image: "/images/Wodden  & Sustainable  items/30+ Best Eco Friendly Zero Waste School Supplies - The Eco Hub.jpeg",
+            image: "/images/Wodden_Sustainable_items/wooden-pencils.jpeg",
             category: 'Pencil',
             price: 0,
             variety: '-',
@@ -5253,7 +4311,7 @@ const data = {
         {
             name: 'Plantable Sprout Pencils',
             slug: "Pencil -2",
-            image: "/images/Wodden  & Sustainable  items/Introducing Plantable Sprout Pencils!.jpeg",
+            image: "/images/Wodden_Sustainable_items/plantable-pencil.jpeg",
             category: 'Pencil',
             price: 0,
             variety: '-',
@@ -5262,18 +4320,7 @@ const data = {
 
             description: "High Quality",
         },
-        {
-            name: 'Personalized Eco Friendly Wedding Gifts for Guest, Plantable Seed Pencils Favors for Wedding Guest, Eco Friendly Engraved Seed Pencil Favors',
-            slug: "Pencil -3",
-            image: "/images/Wodden  & Sustainable  items/wooden pencils.jpeg",
-            category: 'Pencil',
-            price: 0,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+  
 
     ],
 
@@ -5283,7 +4330,7 @@ const data = {
         {
             name: 'op Stub Leather Checkbook Cover-Black',
             slug: "checkbook covers -2",
-            image: "/images/bags and wallets/checkbook cover/Top Stub Leather Checkbook Cover-Black-476862A.jpeg",
+            image: "/images/bag-wallet/checkbook-cover/checkbook-cover.jpeg",
             category: 'checkbook covers',
             price: 0,
             variety: '-',
@@ -5298,7 +4345,7 @@ const data = {
         {
             name: 'Clutches',
             slug: "clutches -1",
-            image: "/images/bags and wallets/Clutches/download (1).jpeg",
+            image: "/images/bag-wallet/Clutches/download(1).jpeg",
             category: 'clutches',
             price: 0,
             variety: '-',
@@ -5310,7 +4357,7 @@ const data = {
         {
             name: 'Victorias Secret Bags _ Victoria’s Secret Wristlet_Wallet _ Color_ Pink _ Size_',
             slug: "clutches -2",
-            image: "/images/bags and wallets/Clutches/Victoria's Secret Bags _ Victoria’s Secret Wristlet_Wallet _ Color_ Pink _ Size_ Os.jpeg",
+            image: "/images/bag-wallet/Clutches/clutches.jpeg",
             category: 'clutches',
             price: 0,
             variety: '-',
@@ -5319,25 +4366,14 @@ const data = {
 
             description: "High Quality",
         },
-        {
-            name: 'Clutches black color',
-            slug: "clutches -3",
-            image: "/images/bags and wallets/Clutches/download.jpeg",
-            category: 'clutches',
-            price: 0,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+      
     ],
     slingbags: [
 
         {
             name: 'Daylite Sling Umhängetasche',
             slug: "sling bags -1",
-            image: "/images/bags and wallets/siling bags/Daylite Sling Umhängetasche.jpeg",
+            image: "/images/bag-wallet/siling-bags/sling-bag.jpeg",
             category: 'sling bags',
             price: 0,
             variety: '-',
@@ -5352,7 +4388,7 @@ const data = {
         {
             name: 'Bolsa De Viagem Modelo Expansiva',
             slug: "travel bags -1",
-            image: "/images/bags and wallets/travel bag/Bolsa De Viagem Modelo Expansiva.jpeg",
+            image: "/images/bag-wallet/travel-bag/travel-bag.jpeg",
             category: 'travel bags',
             price: 0,
             variety: '-',
@@ -5360,26 +4396,14 @@ const data = {
             countInStock: 50,
 
             description: "High Quality",
-        },
-        {
-            name: 'Mala De Viagem Masculina Bolsa De Mão E Transversal Feminina',
-            slug: "travel bags -2",
-            image: "/images/bags and wallets/travel bag/Mala De Viagem Masculina Bolsa De Mão E Transversal Feminina.jpeg",
-            category: 'travel bags',
-            price: 0,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+        }
     ],
     schoolbags: [
 
         {
             name: 'Multi-pocket Nylon School Backpack For Women, High Capacity, Lightweight Backpack',
             slug: "School bags -1",
-            image: "/images/bags and wallets/school bag/Temu｜Multi-pocket Nylon School Backpack For Women, High Capacity, Lightweight Backpack.jpeg",
+            image: "/images/bag-wallet/schoolbag/schoolbag.jpeg",
             category: 'school bags',
             price: 0,
             variety: '-',
@@ -5387,26 +4411,14 @@ const data = {
             countInStock: 50,
 
             description: "High Quality",
-        },
-        {
-            name: 'Waterproof Casual Women Backpack',
-            slug: "School bags -2",
-            image: "/images/bags and wallets/school bag/Waterproof Casual Women Backpack.jpeg",
-            category: 'school bags',
-            price: 0,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+        }
     ],
     non_wovenbags: [
 
         {
             name: 'Custom Laminated Totes Collection',
             slug: "Non Woven Bgas -2",
-            image: "/images/Bags/Non Woven Bag.jpeg",
+            image: "/images/Bags/Non-woven-bag-2.jpeg",
             category: 'Non Woven Bgas',
             price: 0,
             variety: '-',
@@ -5418,7 +4430,7 @@ const data = {
         {
             name: 'Customized Design Standard Size 6 Bottle Non Woven Wine Tote Bag with Handle Supplier',
             slug: "Non Woven Bgas -3",
-            image: "/images/Bags/Nonwoven bags/Customized Design Standard Size 6 Bottle Non Woven Wine Tote Bag with Handle Supplier.jpeg",
+            image: "/images/Bags/Nonwoven_bags/nan-wovebbag.jpeg",
             category: 'Non Woven Bgas',
             price: 0,
             variety: '-',
@@ -5430,7 +4442,7 @@ const data = {
         {
             name: 'Customized Design Standard Size 6 Bottle Non Woven Wine Tote Bag with Handle Supplier',
             slug: "Non Woven Bgas -4",
-            image: "/images/Bags/Non woven bag-2.jpeg",
+            image: "/images/Bags/Nonwoven_bags/non-wovenbag-2.jpeg",
             category: 'Non Woven Bgas',
             price: 0,
             variety: '-',
@@ -5442,7 +4454,7 @@ const data = {
         {
             name: 'Tissu Non Tissé - Sacs de Transport Durables pour Shopping et Marchandises',
             slug: "Non Woven Bgas -5",
-            image: "/images/Bags/Nonwoven bags/nullPack de 4 Sacs Fourre-Tout en Tissu Non Tissé - Sacs de Transport Durables pour Shopping et Marchandises.jpeg",
+            image: "/images/Bags/Nonwoven_bags/non-wovenbag-3.jpeg",
             category: 'Non Woven Bgas',
             price: 0,
             variety: '-',
@@ -5457,7 +4469,7 @@ const data = {
         {
             name: 'Small Gym Bag, Workout Bag ',
             slug: "Wildcraft  bags -1",
-            image: "/images/bags and wallets/wildcraft bag/Small Gym Bag, Workout Bag (Armygreen) _ Color_ Green_Tan _ Size_ Os.jpeg",
+            image: "/images/bag-wallet/wildcraft-bag",
             category: 'Wildcraft  bags',
             price: 0,
             variety: '-',
@@ -5473,7 +4485,7 @@ const data = {
         {
             name: 'Best headphones',
             slug: "headphones -1",
-            image: "/images/Teach Accessories/headphone/Best headphones you can find on amazon.jpeg",
+            image: "/images/teach-accessories/headphone/headphone.jpeg",
             category: 'headphones',
             price: 0,
             variety: '-',
@@ -5485,7 +4497,7 @@ const data = {
         {
             name: 'lue Bluetooth On-Ear Headphones',
             slug: "headphones -2",
-            image: "/images/Teach Accessories/headphone/Blue Bluetooth On-Ear Headphones.jpeg",
+            image: "/images/teach-accessories/headphone/headphone-2.jpeg",
             category: 'headphones',
             price: 0,
             variety: '-',
@@ -5500,7 +4512,7 @@ const data = {
         {
             name: 'Macbook Air engraving',
             slug: "laptop skin -1",
-            image: "/images/Teach Accessories/laptop skin/Macbook Air engraving.jpeg",
+            image: "/images/teach-accessories/laptop-skin/laptopskin-1.jpeg",
             category: 'laptop skin',
             price: 0,
             variety: '-',
@@ -5512,7 +4524,7 @@ const data = {
         {
             name: 'Sity Laptop Skin Sticker',
             slug: "laptop skin -2",
-            image: "/images/Teach Accessories/laptop skin/laptop skin.jpeg",
+            image: "/images/teach-accessories/laptop-skin/laptopskin-2.jpeg",
             category: 'laptop skin',
             price: 0,
             variety: '-',
@@ -5524,7 +4536,7 @@ const data = {
         {
             name: 'Source unknown yet',
             slug: "laptop skin -3",
-            image: "/images/Teach Accessories/laptop skin/Source unknown yet__.jpeg",
+            image: "/images/teach-accessories/laptop-skin/laptopskin-3.jpeg",
             category: 'laptop skin',
             price: 0,
             variety: '-',
@@ -5539,7 +4551,7 @@ const data = {
         {
             name: 'Miracase Cell Phones & Accessories _ Miracase Cell Phone Holder Nwb _ Color_ Black _ Size',
             slug: "Mobile Accessories -1",
-            image: "/images/Teach Accessories/mobile accessories/mobile accessories.jpeg",
+            image: "/images/teach-accessories/mobile-accessories/mobile-accessories.jpeg",
             category: 'Mobile Accessories',
             price: 0,
             variety: '-',
@@ -5554,7 +4566,7 @@ const data = {
         {
             name: 'HONWELL LED Magnifying Glass',
             slug: "magnifires -1",
-            image: "/images/Teach Accessories/magnifires/HONWELL LED Magnifying Glass Only $5_41.jpeg",
+            image: "/images/teach-accessories/magnifires/magnifire.jpeg",
             category: 'magnifires',
             price: 0,
             variety: '-',
@@ -5568,8 +4580,8 @@ const data = {
 
         {
             name: 'op Stub Leather Checkbook Cover-Black',
-            slug: "bags and wallets -1",
-            image: "/images/bags and wallets/checkbook cover/Top Stub Leather Checkbook Cover-Black-476862A.jpeg",
+            slug: "bag-wallet -1",
+            image: "/images/bag-wallet/checkbook-cover/checkbook-cover.jpeg",
             category: 'checkbook covers',
             price: 0,
             variety: '-',
@@ -5581,7 +4593,7 @@ const data = {
         {
             name: 'Clutches',
             slug: "bags and wallet -2",
-            image: "/images/bags and wallets/Clutches/download (1).jpeg",
+            image: "/images/bag-wallet/Clutches/download(1).jpeg",
             category: 'clutches',
             price: 0,
             variety: '-',
@@ -5593,7 +4605,7 @@ const data = {
         {
             name: 'Victorias Secret Bags _ Victoria’s Secret Wristlet_Wallet _ Color_ Pink _ Size_',
             slug: "bags and wallet -3",
-            image: "/images/bags and wallets/Clutches/Victoria's Secret Bags _ Victoria’s Secret Wristlet_Wallet _ Color_ Pink _ Size_ Os.jpeg",
+            image: "/images/bag-wallet/Clutches/clutches.jpeg",
             category: 'clutches',
             price: 0,
             variety: '-',
@@ -5602,18 +4614,7 @@ const data = {
 
             description: "High Quality",
         },
-        {
-            name: 'Clutches black color',
-            slug: "bags and wallet -4",
-            image: "/images/bags and wallets/Clutches/download.jpeg",
-            category: 'clutches',
-            price: 0,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+     
         {
             name: 'Genuine Leather Wallets for Men Bifold RFID Blocking Wallet',
             slug: "bags and wallet -5",
@@ -5643,7 +4644,7 @@ const data = {
 
             name: 'Custom Zusa Tech Backpack',
             slug: "bags and wallet -7",
-            image: "/images/Bags/Bagpack/Custom Zusa Tech Backpack.jpeg",
+            image: "/images/Bags/Bagpack/bagpack-2.jpeg",
             category: ' laptop bags',
             price: 0,
             variety: '-',
@@ -5656,8 +4657,8 @@ const data = {
 
             name: 'Dunlop CX Performance Tennis Backpack (Black_Red)',
             slug: "bags and wallet -8",
-            image: "/images/Bags/Bagpack/Dunlop CX Performance Tennis Backpack (Black_Red).jpeg",
-            category: ' laptop bags',
+            image: "/images/Bags/Bagpack/Bagpack.jpeg",
+            category: 'laptop bags',
             price: 0,
             variety: '-',
             code: 'FM-916',
@@ -5669,7 +4670,7 @@ const data = {
 
             name: 'Men Letter Graphic Large Capacity Backpack',
             slug: "bags and wallet -9",
-            image: "/images/Bags/Bagpack/Men Letter Graphic Large Capacity Backpack.jpeg",
+            image: "/images/Bags/Bagpack/bagpack-2.jpeg",
             category: ' laptop bags',
             price: 0,
             variety: '-',
@@ -5678,36 +4679,11 @@ const data = {
 
             description: "High Quality",
         },
-        {
-
-            name: 'Mochila Unissex Notebook Com Cadeado, Entrada Para Usb_ Fone De Ouvido',
-            slug: "bags and wallet -10",
-            image: "/images/Bags/Bagpack/Mochila Unissex Notebook Com Cadeado, Entrada Para Usb_ Fone De Ouvido.jpeg",
-            category: ' laptop bags',
-            price: 0,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
-        {
-
-            name: 'Premium PSD _ View of backpack mock-up',
-            slug: "bags and wallet -11",
-            image: "/images/Bags/Bagpack/Premium PSD _ View of backpack mock-up.jpeg",
-            category: ' laptop bags',
-            price: 0,
-            variety: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+       
         {
             name: 'Daylite Sling Umhängetasche',
             slug: "bags and wallet -12",
-            image: "/images/bags and wallets/siling bags/Daylite Sling Umhängetasche.jpeg",
+            image: "/images/bag-wallet/siling-bags/sling-bag.jpeg",
             category: 'sling bags',
             price: 0,
             variety: '-',
@@ -5719,7 +4695,7 @@ const data = {
         {
             name: 'Genuine Leather Wallets for Men Bifold RFID Blocking Wallet',
             slug: "bags and wallet -13",
-            image: "/images/Wallets/BOSTANTEN Genuine Leather Wallets for Men Bifold RFID Blocking Wallet with 2 ID Window.jpeg",
+            image: "/images/Wallets/wallets.jpeg",
             category: 'wallet',
             price: 0,
             variety: '-',
@@ -5735,7 +4711,7 @@ const data = {
         {
             name: 'Tempreture Display bottle',
             slug: "bottles & sipper -7",
-            image: "/images/Mugs/Bottles & Sippers/sipper bottle.jpeg",
+            image: "/images/Mugs/Bottles-Sippers/sipper-bottle.jpeg",
             category: 'drinkware',
             capacity: '500ml',
             material: 'Stainless Steel',
@@ -5756,7 +4732,7 @@ const data = {
             capacity: "750 ml",
             slug: "Bottles & Sippers16",
             material: "Stainless Steel",
-            image: "/images/Sippers/Bottles & Sippers/Steel Water Bottle.png",
+            image: "/images/Sippers/Bottles-Sippers/Steel-Water-Bottle.png",
             category: 'Ceramic',
             price: 120,
             variety1: 'Black',
@@ -5774,7 +4750,7 @@ const data = {
         {
             name: 'Stainless Steel Sipper Bottle',
             slug: "bottles & sipper -1",
-            image: "/images/Sippers/Bottles & Sippers/Stainless Steel Sipper Bottle.jpg",
+            image: "/images/Sippers/Bottles-Sippers/Stainless-Steel-Sipper-Bottle.jpg",
             category: 'drinkware',
             capacity: '750 ml',
             material: 'material Stainless Steel and Plastic',
@@ -5791,7 +4767,7 @@ const data = {
         {
             name: 'Aluminum Bottle With Clip',
             slug: "bottles & sipper -101",
-            image: "/images/Sippers/Bottles & Sippers/Aluminum Bottle With Clip.jpg",
+            image: "/images/Sippers/Bottles-Sippers/Aluminum-Bottle-With-Clip.jpg",
             category: 'drinkware',
             capacity: '750 ml',
             material: 'material Stainless Steel and Plastic',
@@ -5808,7 +4784,7 @@ const data = {
         {
             name: 'Double Wall Sports Water Bottle',
             slug: "bottles & sipper -10",
-            image: "/images/Sippers/Bottles & Sippers/Double Wall Sports Water Bottle.webp",
+            image: "/images/Sippers/Bottles-Sippers/double-wall-sports-bottle.webp",
             category: 'drinkware',
             capacity: '550ml',
             material: 'Ceramic',
@@ -5825,7 +4801,7 @@ const data = {
         {
             name: 'Bamboo Vacuum Insulated Bottle',
             slug: "bottles & sipper -112",
-            image: "/images/Sippers/Bottles & Sippers/Bamboo Vacuum Insulated Bottle.jpeg",
+            image: "/images/Sippers/Bottles-Sippers/Bamboo-Bottle.jpeg",
             category: 'drinkware',
             capacity: '500ml',
             material: 'Ceramic',
@@ -5842,7 +4818,7 @@ const data = {
         {
             name: 'Bamboo Vacuum Insulated Bottle wooden sipper',
             slug: "bottles & sipper -113",
-            image: "/images/Sippers/Bottles & Sippers/Bamboo Vacuum Insulated Bottle wooden sipper.jpg",
+            image: "/images/Sippers/Bottles-Sippers/wooden-sipper-bottle.jpg",
             category: 'drinkware',
             capacity: '500ml',
             material: 'Ceramic',
@@ -5859,7 +4835,7 @@ const data = {
         {
             name: 'Motivational Quotes Sports Water Bottle',
             slug: "bottles & sipper -8",
-            image: "/images/Sippers/Bottles & Sippers/sports water bottle.jpeg",
+            image: "/images/Sippers/Bottles-Sippers/sports-water-bottle.jpeg",
             category: 'drinkware',
             capacity: '900 ml',
             material: 'Ceramic',
@@ -5875,28 +4851,11 @@ const data = {
             description: "High Quality",
         },
        
-        {
-            name: 'Insulated Travel Tumbler',
-            slug: "bottles & sipper -2",
-            image: "/images/Sippers/Bottles & Sippers/water bottle.jpeg",
-            category: 'drinkware',
-            capacity: '500ml',
-            material: 'Stainless Steel',
-            variety1: '-',
-            variety2: '-',
-            variety3: '-',
-            variety4: '-',
-            variety5: '-',
-            code: 'FM 954',
-            price: 0,
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+   
         {
             name: 'Magic Sublimation Mug',
             slug: "bottles & sipper -3",
-            image: "/images/drinkware/Bottles & Sippers/assortment-tumbler-with-copy-space.jpg",
+            image: "/images/drinkware/Bottles-Sippers/assortment-tumbler-with-copy-space.jpg",
             category: 'drinkware',
             capacity: '1 liter',
             material: 'Ceramic',
@@ -5915,7 +4874,7 @@ const data = {
 
             name: 'Clear Water Bottle , Magic Sublimation Mug',
             slug: "Bottles & Sippers18",
-            image: "/images/Sippers/Glass Bottles/1pc Clear Water Bottle.jpeg",
+            image: "/images/drinkware/Glass Bottles/clear-water-bottle.jpeg",
             category: 'Sipper',
             capacity: '300ml',
             material: 'Ceramic',
@@ -5934,7 +4893,7 @@ const data = {
 
             name: 'Custom borosilicate glass water bottle double wall 300ml glass bottle tea infuser water bottle',
             slug: "Bottles & Sippers20",
-            image: "/images/Sippers/Glass Bottles/Glass Water Bottle.jpeg",
+            image: "/images/Sippers/Glass-Bottles/Glass-Water-Bottle-2.jpeg",
             category: 'Sipper',
             capacity: '300ml',
             material: 'Ceramic',
@@ -5949,30 +4908,12 @@ const data = {
 
             description: "High Quality",
         },
-        {
-
-            name: 'Glass Water Bottles with Infuser Strainer 18oz Glass Water Bottle with Stainless Steel Filter Leak Proof Tea Tumbler with Nylon Protective Sleeve',
-            slug: "Bottles & Sippers22",
-            image: "/images/Sippers/Glass Bottles/Glass Water Bottle -2.jpeg",
-            category: 'Sipper',
-            capacity: '300ml',
-            material: 'Ceramic',
-            price: 0,
-            variety1: '-',
-            variety2: '-',
-            variety3: '-',
-            variety4: '-',
-            variety5: '-',
-            code: 'FM-916',
-            countInStock: 50,
-
-            description: "High Quality",
-        },
+       
         {
 
             name: 'Drinking glass, drinking glass with lid, drinking glass children',
             slug: "Bottles & Sippers23",
-            image: "/images/drinkware/Bottles & Sippers/sipper bottle-1.jpg",
+            image: "/images/drinkware/Bottles-Sippers/sipper-bottle-1.jpg",
             category: 'Steel Mug',
             capacity: '120 ml',
             material: 'Stainless Steel & Plastic',
@@ -5991,7 +4932,7 @@ const data = {
 
             name: 'Glass cup with bamboo lid & Straw',
             slug: "Bottles & Sippers24",
-            image: "/images/drinkware/Bottles & Sippers/bamboo lid.jpg",
+            image: "/images/drinkware/Bottles-Sippers/bamboo-lid.jpeg",
             category: 'Steel Mug',
             capacity: '120 ml',
             material: 'Stainless Steel & Plastic',
@@ -6012,7 +4953,7 @@ const data = {
         {
             name: 'Breakfast board with motif_ GIRAFFEN HEAD - breakfast board - customizable - gift idea, wooden board with engraving',
             slug: "giftcard -1",
-            image: "/images/Home Product/giftcard/gift card.jpeg",
+            image: "/images/home-product/giftcard/giftcard.jpeg",
             category: 'giftcard',
             variety: '-',
             code: 'FM-916',
@@ -6027,7 +4968,7 @@ const data = {
         {
             name: 'Matisse Print, Exhibition Poster, Pink Wall Art, Gallery Wall Art, Mid-Century Modern Art, Trendy Wall Art, Vintage Poster, Digital',
             slug: "poster -1",
-            image: "/images/Home Product/Poster/poster.jpeg",
+            image: "/images/home-product/Poster/poster.jpeg",
             category: 'poster',
             variety: '-',
             code: 'FM-916',
@@ -6042,7 +4983,7 @@ const data = {
         {
             name: 'Rubber Stamp PSD MockUp',
             slug: "stamp -1",
-            image: "/images/Home Product/Stamp/Rubber Stamp PSD MockUp.jpeg",
+            image: "/images/home-product/Stamp/Rubber Stamp PSD MockUp.jpeg",
             category: 'stamp',
             variety: '-',
             code: 'FM-916',
@@ -6057,7 +4998,7 @@ const data = {
         {
             name: 'Personalized Die Cut Paper Tags with Eyelets (Thickness 500 GSM) Favor Swing Tags for Business_Clothes, Display Tags for Gift, Price Tags.jpeg',
             slug: "stamp -1",
-            image: "/images/Home Product/tags/tags.jpeg",
+            image: "/images/home-product/tags/tags.jpeg",
             category: 'tags',
             variety: '-',
             code: 'FM-916',
@@ -6071,7 +5012,7 @@ const data = {
         {
             name: 'Bamboo Holder',
             slug: "eco-friendly -1",
-            image: "/images/Home Product/Wodden Table items/Bamboo Holder.jpeg",
+            image: "/images/home-product/Wodden-Table-items/Bambo-Holder.jpeg",
             category: 'wooden table item',
             material: 'wooden',
             variety: '-',
@@ -6084,7 +5025,7 @@ const data = {
         {
             name: 'Desk Pen Holder for Teacher _ Engraved Teacher Pen Stand _ Personalized Desk Pen Holder _ Gift for Teacher _ Teacher Appreciation Month',
             slug: "eco-friendly -3",
-            image: "/images/Home Product/Wodden Table items/Wooden Pen Holder.jpeg",
+            image: "/images/home-product/Wodden-Table-items/Wooden-Pen-Holder.jpeg",
             category: 'wooden table item',
             material: 'wooden',
             variety: '-',
@@ -6097,7 +5038,7 @@ const data = {
         {
             name: 'Wodden Table items',
             slug: "eco-friendly -4",
-            image: "/images/Home Product/Wodden Table items/download (14).jpeg",
+            image: "/images/home-product/Wodden-Table-items/wooden-item.jpeg",
             category: 'wooden table item',
             material: 'wooden',
             variety: '-',
@@ -6110,7 +5051,7 @@ const data = {
         {
             name: 'Photographer USBs for Weddings',
             slug: "eco-friendly -5",
-            image: "/images/Wodden  & Sustainable  items/Wooden Pendrive.jpeg",
+            image: "/images/Wodden_Sustainable_items/wooden-pendrive.jpeg",
             category: 'wooden table item',
             material: 'wooden',
             variety: '-',
@@ -6123,7 +5064,7 @@ const data = {
         {
             name: 'Houseplants Are the Ultimate Accessory_ Heres How to Choose One You Wont Kill',
             slug: "eco-friendly -6",
-            image: "/images/Wodden  & Sustainable  items/houseplants.jpeg",
+            image: "/images/Wodden_Sustainable_items/houseplants.jpeg",
             category: 'wooden table item',
             material: 'wooden',
             variety: '-',
@@ -6137,7 +5078,7 @@ const data = {
         {
             name: 'made from wood and as we all know plant materials are biodegradable',
             slug: "eco-friendly -8",
-            image: "/images/Wodden  & Sustainable  items/30+ Best Eco Friendly Zero Waste School Supplies - The Eco Hub.jpeg",
+            image: "/images/Wodden_Sustainable_items/wooden-pencils.jpeg",
             category: 'wooden table item',
             material: 'West Material',
             variety: '-',
@@ -6149,7 +5090,7 @@ const data = {
         {
             name: 'bamboo goods at DuckDuckGo',
             slug: "eco-friendly -9",
-            image: "/images/Wodden  & Sustainable  items/Handcrafted Bamboo holder.jpeg",
+            image: "/images/Wodden_Sustainable_items/Bamboo-Holder.jpeg",
             category: 'eco-friendly ',
             material: 'wooden',
             variety: '-',
@@ -6161,7 +5102,7 @@ const data = {
         {
             name: 'best valentines gift ',
             slug: "eco-friendly -10",
-            image: "/images/Wodden  & Sustainable  items/best valentines gift for bf.jpeg",
+            image: "/images/Wodden_Sustainable_items/giftset.jpeg",
             category: 'eco-friendly ',
             material: 'wooden',
             variety: '-',
@@ -6173,7 +5114,7 @@ const data = {
         {
             name: 'Eco-Friendly bag',
             slug: "eco-friendly -11",
-            image: "/images/Wodden  & Sustainable  items/Crafts.jpeg",
+            image: "/images/Wodden_Sustainable_items/Crafts.jpeg",
             category: 'eco-friendly ',
             material: 'wooden',
             variety: '-',
@@ -6185,7 +5126,7 @@ const data = {
         {
             name: 'Custom Wood Coasters _Anniversary Coasters _ Round Wedding Coaster Personalized _Housewarming Gifts_Wedding Gifts _Bridal Shower Gift',
             slug: "eco-friendly -12",
-            image: "/images/Wodden  & Sustainable  items/wooden coaster.jpeg",
+            image: "/images/Wodden_Sustainable_items/wooden-coaster.jpeg",
             category: 'eco-friendly ',
             material: 'wooden',
             variety: '-',
@@ -6198,7 +5139,7 @@ const data = {
         {
             name: 'Custom Wood Coasters _Anniversary Coasters _ Round Wedding Coaster Personalized _Housewarming Gifts_Wedding Gifts _Bridal Shower Gift',
             slug: "eco-friendly -14",
-            image: "/images/Wodden  & Sustainable  items/download (18).jpeg",
+            image: "/images/Wodden_Sustainable_items/wooden-mug.jpeg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6210,7 +5151,7 @@ const data = {
         {
             name: 'Wedding Place Cards, Place Cards, Name Tag, Wedding Name Tags, Heart Name Tags, Heart Place Cards, Name Tags Wedding, Rustic Wedding Tags',
             slug: "eco-friendly -15",
-            image: "/images/Wodden  & Sustainable  items/wooden tagname.jpeg",
+            image: "/images/Wodden_Sustainable_items/wooden-tagname.jpeg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6222,7 +5163,7 @@ const data = {
         {
             name: 'Introducing Plantable Sprout Pencils',
             slug: "eco-friendly -16",
-            image: "/images/Wodden  & Sustainable  items/Introducing Plantable Sprout Pencils!.jpeg",
+            image: "/images/Wodden_Sustainable_items/plantable-pencil.jpeg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6234,7 +5175,7 @@ const data = {
         {
             name: 'Light wood engraved flip boxes',
             slug: "eco-friendly -17",
-            image: "/images/Wodden  & Sustainable  items/Light wood engraved flip boxes.jpeg",
+            image: "/images/Wodden_Sustainable_items/flip-boxes.jpeg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6246,7 +5187,7 @@ const data = {
         {
             name: 'seedlings and herbs with pencils',
             slug: "eco-friendly -18",
-            image: "/images/Wodden  & Sustainable  items/Mark your seedlings and herbs with pencils!.jpeg",
+            image: "/images/Wodden_Sustainable_items/plantable-pencil.jpeg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6258,7 +5199,7 @@ const data = {
         {
             name: 'Bamboo Thermos Flask with Tea Strainer',
             slug: "eco-friendly -19",
-            image: "/images/Wodden  & Sustainable  items/Bamboo Tharmas.jpeg",
+            image: "/images/Wodden_Sustainable_items/Bamboo-Tharmas.jpeg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6270,7 +5211,7 @@ const data = {
         {
             name: 'Notebooks & journals',
             slug: "eco-friendly -20",
-            image: "/images/Wodden  & Sustainable  items/Notebooks & journals _ Writing.jpeg",
+            image: "/images/Wodden_Sustainable_items/wooden-notebook.jpeg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6282,7 +5223,7 @@ const data = {
         {
             name: 'Notebooks & journals',
             slug: "eco-friendly -22",
-            image: "/images/Wodden  & Sustainable  items/sustainable-development-goals-still-life.jpg",
+            image: "/images/Wodden_Sustainable_items/sustainable-development-goals-still-life.jpg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6294,7 +5235,7 @@ const data = {
         {
             name: 'Wifi Password Sign - Wifi QR Magnet - QR Code Scanner - Guest Wifi Password',
             slug: "eco-friendly -23",
-            image: "/images/Wodden  & Sustainable  items/Wifi Password Sign.jpeg",
+            image: "/images/Wodden_Sustainable_items/Wifi-Password-Sign.jpeg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6306,7 +5247,7 @@ const data = {
         {
             name: 'Eco Friendly mug',
             slug: "eco-friendly -25",
-            image: "/images/Wodden  & Sustainable  items/Grey Cup and Saucer by Samuel Sparrow.jpeg",
+            image: "/images/Wodden_Sustainable_items/Wifi-Password-Sign.jpeg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6318,7 +5259,7 @@ const data = {
         {
             name: 'Seed Paper Desk Calender',
             slug: "eco-friendly -26",
-            image: "/images/Wodden  & Sustainable  items/Plantable Herb Garden Eco Calendar.jpeg",
+            image: "/images/Wodden_Sustainable_items/woode-Calender.jpeg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6330,7 +5271,7 @@ const data = {
         {
             name: 'Seed Paper Cart',
             slug: "eco-friendly -27",
-            image: "/images/Wodden  & Sustainable  items/Wildflower Seed Paper Card.jpeg",
+            image: "/images/Wodden_Sustainable_items/Seed-Paper-Card.jpeg",
             category: 'eco-friendly ',
             material: 'Bamboo Mug',
             variety: '-',
@@ -6373,7 +5314,7 @@ const data = {
 
             name: 'bluetooth speake',
             slug: "blu_speaker",
-            image: "/images/Speaker/bluetooth speaker.jpeg",
+            image: "/images/Best-Sellers/Wireless-Speaker.jpeg",
             category: 'Wirelss',
             price: 0,
             variety: '-',
@@ -6386,7 +5327,7 @@ const data = {
 
             name: 'bluetooth speake',
             slug: "speaker_stands",
-            image: "/images/Speaker/AudioEngine Audioengine_ DS1 Desktop Speaker Stand.jpeg",
+            image: "/images/Speaker/bluetooth-speaker.jpeg",
             category: 'speaker with stands',
             price: 0,
             variety: '-',
@@ -6399,7 +5340,7 @@ const data = {
 
             name: 'Digital clock with Speaker',
             slug: "digital clock with speaker",
-            image: "/images/Digital/Digital Clock with speaker.jpeg",
+            image: "/images/Digital/Digital-Clock-with-speaker.jpeg",
             category: 'clock with speaker',
             price: 0,
             variety: '-',
@@ -6418,7 +5359,7 @@ const data = {
 
             name: 'Metal Pen1',
             slug: "pen1",
-            image: "/images/Stationery/Metal Pen.jpeg",
+            image: "/images/Stationery/Metal-Pen.jpeg",
             category: "Metal Pen",
             price: 0,
             variety: '-',
@@ -6432,7 +5373,7 @@ const data = {
 
             name: 'Gun Metal Pen1',
             slug: "pen2",
-            image: "/images/Stationery/Gun Metal Pen.jpeg",
+            image: "/images/Stationery/Gun-Metal-Pen.jpeg",
             category: "Metal Pen",
             price: 0,
             variety: '-',
@@ -6446,7 +5387,7 @@ const data = {
 
             name: 'Ballpoint Pen1',
             slug: "pen3",
-            image: "/images/Stationery/Ballpoint Pen (2).jpeg",
+            image: "/images/Stationery/Ballpoint-Pen.jpeg",
             category: "Metal Pen",
             price: 0,
             variety: '-',
@@ -6456,39 +5397,13 @@ const data = {
             description: "High Quality",
 
         },
-        {
-
-            name: 'Wedding Gift Ideas_custom Bamboo Ballpoint  Pens',
-            slug: "pen4",
-            image: "/images/pens/Wedding Gift Ideas_custom Bamboo Ballpoint  Pens.jpeg",
-            category: "Metal Pen",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
-        {
-
-            name: 'plastic pane',
-            slug: "pen5",
-            image: "/images/pens/plastic pane-1.jpg",
-            category: "Plastic Pen",
-            price: 0,
-            variety: '-',
-            code: '02',
-            countInStock: 15,
-
-            description: "High Quality",
-
-        },
+        
+       
         {
 
             name: 'Personalized EXECUTIVE PEN Ballpoint Pens Gifts',
             slug: "pen6",
-            image: "/images/pens/Personalized EXECUTIVE PEN Ballpoint Pens Gifts.jpeg",
+            image: "/images/pens/pe-1.jpeg",
             category: "Metal Pen",
             price: 0,
             variety: '-',
@@ -6519,7 +5434,7 @@ const data = {
 
             name: '3x3x3 Speed Cube Carbon Fiber Sticker Smooth Magic Cube Puzzles',
             slug: "rubikcubs-1",
-            image: "/images/Rubik Cube/rubik cube.jpeg",
+            image: "/images/Rubik-Cube/rubikcube.jpeg",
             category: "Rubik Cube",
             material: 'Plastic',
             price: 0,
@@ -6534,7 +5449,7 @@ const data = {
 
             name: 'High Speend Cube Puzzle for kids',
             slug: "rubikcubs-2",
-            image: "/images/Rubik Cube/Photo by Donald Tran on Unsplash.jpeg",
+            image: "/images/Rubik-Cube/rubikcube3.jpeg",
             category: "Rubik Cube",
             material: 'Plastic',
             price: 0,
@@ -6549,7 +5464,7 @@ const data = {
 
             name: 'Sticker Rubik Cube',
             slug: "rubikcubs-3",
-            image: "/images/Rubik Cube/rubik cube -2.jpeg",
+            image: "/images/Rubik-Cube/rubik-cube -2.jpeg",
             category: "Rubik Cube",
             material: 'Plastic',
             price: 0,
@@ -6564,7 +5479,7 @@ const data = {
 
             name: 'Tech companies still fail at social media',
             slug: "rubikcubs-4",
-            image: "/images/Rubik Cube/why-rubik-cube.jpg",
+            image: "/images/Rubik-Cube/why-rubik-cube.jpg",
             category: "Rubik Cube",
             material: 'Plastic',
             price: 0,
@@ -6581,7 +5496,7 @@ const data = {
 
             name: 'Super Cute Nurse Week Gift',
             slug: "glasstumblers-1",
-            image: "/images/Sippers/Glass Tumbler/Super Cute Nurse Week Gift.jpeg",
+            image: "/images/Sippers/Glass-Tumbler/glass-tumbler-1.jpeg",
             category: "Glass Tumbler",
             material: 'Glass',
             price: 0,
@@ -6596,7 +5511,7 @@ const data = {
 
             name: 'Glass Tumblers customized the colors and printing',
             slug: "glasstumblers-2",
-            image: "/images/Sippers/Glass Tumbler/Glass Tumbler.jpeg",
+            image: "/images/Sippers/Glass-Tumbler/Glass-Tumbler.jpeg",
             category: "Glass Tumbler",
             material: 'Glass',
             price: 0,
@@ -6611,7 +5526,7 @@ const data = {
 
             name: 'Travel Mug name Tumbler',
             slug: "glasstumblers-3",
-            image: "/images/Sippers/Glass Tumbler/Glass Tumbler -2.jpeg",
+            image: "/images/Sippers/Glass-Tumbler/Glass-Tumbler-2.jpeg",
             category: "Glass Tumbler",
             material: 'Glass',
             price: 0,
@@ -6628,7 +5543,7 @@ const data = {
 
             name: 'Bamboo Holder',
             slug: "desktopItems-1",
-            image: "/images/Home Product/Wodden Table items/Bamboo Holder.jpeg",
+            image: "/images/home-product/Wodden-Table-items/Bambo-Holder.jpeg",
             category: "Desktop Items",
             material: 'Wooden',
             price: 0,
@@ -6643,7 +5558,7 @@ const data = {
 
             name: 'Desk Pen Holder for Teacher',
             slug: "desktopItems-2",
-            image: "/images/Home Product/Wodden Table items/Wooden Pen Holder.jpeg",
+            image: "/images/home-product/Wodden-Table-items/Wooden-Pen-Holder.jpeg",
             category: "Desktop Items",
             material: 'Wooden',
             price: 0,
@@ -6658,7 +5573,7 @@ const data = {
 
             name: 'Bamboo Holder with watch',
             slug: "desktopItems-3",
-            image: "/images/Home Product/Wodden Table items/download (14).jpeg",
+            image: "/images/home-product/Wodden-Table-items/wooden-item.jpeg",
             category: "Desktop Items",
             material: 'Wooden',
             price: 0,

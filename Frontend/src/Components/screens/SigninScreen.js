@@ -49,9 +49,9 @@ function Login() {
                     <div className="card-body p-md-5 mx-md-4">
 
                       <div className="text-center">
-                        <img src="/images/Logo.webp"
+                        <img src="/images/LOGO/Giftoworld Final Logo.png"
                           style={{ width: "185px" }} alt="logo" />
-                        <h4 className="mt-1 mb-5 pb-1 text-success">Fine Multiprint Solutions</h4>
+                        <h4 className="mt-1 mb-5 pb-1 text-success">Giftoworld</h4>
                       </div>
                       <form onSubmit={submitHandler}>
                         <div className="mb-3">

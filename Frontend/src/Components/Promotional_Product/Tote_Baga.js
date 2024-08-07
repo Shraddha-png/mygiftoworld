@@ -27,6 +27,7 @@ function ToteBags() {
         error: '',
     });
    
+
 	// const isLoggedIn = state.userInfo !== null; // Check if user is logged in
     
    

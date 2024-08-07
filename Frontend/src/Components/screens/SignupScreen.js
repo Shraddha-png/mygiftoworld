@@ -28,11 +28,11 @@ function SignupScreen() {
     const handleSubmit = async (e) => {
         e.preventDefault();
         if (password !== confirmPassword) {
-            toast.error("Passwords do not match");
+            toast.error("Password do not match");
             return;
         }
         try {
-            const { data } = await axios.post("/api/users/signup", { fname, lname, number, company, business, city, country, email, password });;
+            const { data } = await axios.post("/api/users/signup", { fname, lname, number, company, business, city, country, email, password });
             ctxDispatch({ type: 'USER_SIGNIN', payload: data });
             localStorage.setItem('userInfo', JSON.stringify(data));
             navigate(redirect || '/');

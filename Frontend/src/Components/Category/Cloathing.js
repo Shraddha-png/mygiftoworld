@@ -1,14 +1,95 @@
-import React from "react";
+import React, { useEffect, useReducer, useContext } from "react";
 import { Link } from "react-router-dom";
+import axios from "axios";
+import Rating from "../Ratings";
+
+import LoadingBox from "../LoadingBox";
+import MessageBox from "../MessageBox";
+import { Store } from "../Store";
+
+const reducer = (state, action) => {
+    switch (action.type) {
+        case 'FETCH_REQUEST':
+            return { ...state, loading: true, error: '' };
+        case 'FETCH_SUCCESS':
+            return { ...state, clothings: action.payload, loading: false, error: '' };
+        case 'FETCH_FAIL':
+            return { ...state, loading: false, error: action.payload };
+        default:
+            return state;
+    }
+};
 
 function Clothing() {
+    const [{ loading, error, clothings }, dispatch] = useReducer(reducer, {
+        clothings: [],
+        loading: true,
+        error: '',
+    });
 
+
+    const { state} = useContext(Store);
+    const isLoggedIn = state.userInfo !== null; // Check if user is logged in
+
+
+
+
+    useEffect(() => {
+        const fetchData = async () => {
+            dispatch({ type: 'FETCH_REQUEST' });
+            try {
+                const result = await axios.get('/api/clothings');
+                dispatch({ type: 'FETCH_SUCCESS', payload: result.data });
+            } catch (err) {
+                dispatch({ type: 'FETCH_FAIL', payload: err.message });
+            }
+        };
+        fetchData();
+    }, []);
 
     return (
         <>
 
+            {/* ##########add product########## */}
 
-            <div className="container-fluid">
+
+            <div>
+                
+                <div className="container-fluid">
+                    {loading ? (
+                        <LoadingBox />
+                    ) : error ? (
+                        <MessageBox varient="danger">{error}</MessageBox>
+                    ) : (
+                        <div className="row">
+                            {clothings.map((clothing) => (
+                                <div className="col-md-3 mb-3" key={clothing.slug}>
+                                    <div className="product card mt-3 cardhover">
+                                        <Link to={`/clothing/${clothing.slug}`} >
+                                            <img src={clothing.image} className="card-img-top catimg" alt={clothing.name} />
+                                        </Link>
+                                        <div className="card-body">
+                                            <Link to={`/clothing/${clothing.slug}`} className="txtdco">
+                                                <h4 className="card-title">{clothing.name}</h4>
+                                            </Link>
+                                            <Rating rating={clothing.rating} numReviews={clothing.numReviews} />
+                                            {isLoggedIn ? (
+                                                <h4 className="card-text">
+                                                    <strong><i className="bi bi-currency-rupee"></i>{clothing.price}</strong>
+                                                </h4>
+                                            ) : (
+                                                <h4 className="card-text">Login/Register to see Price</h4>
+                                            )}
+                                           
+                                        </div>
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+                    )}
+                </div>
+            </div>
+            {/* <div className="container-fluid">
                
                 <div className="container-fluid p-0">
                     <div className="row mt-3">
@@ -100,7 +181,7 @@ function Clothing() {
                         
                     </div>
                 </div>
-            </div>
+            </div> */}
         </>
     )
 }

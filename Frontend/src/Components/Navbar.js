@@ -1,5 +1,5 @@
 
-import React, { useContext, useState } from "react";
+import React, { useContext } from "react";
 import { Link } from "react-router-dom";
 import { Store } from "./Store";
 import { ToastContainer } from 'react-toastify'
@@ -107,7 +107,7 @@ function Navbar() {
                                         </div>
                                     </div>
                                 ) : (
-                                    <Link className="nav-link navcolor1" to="/signin"><button className="btn navbtn btn-success">Sign In</button></Link>
+                                    <Link className="nav-link btnclass m-2" to="/signin"><button className="btn navbtn ">Sign In</button></Link>
                                 )}
                                 <ToastContainer position="button-center" limit={1} />
                             </div>
@@ -231,7 +231,6 @@ function Navbar() {
                                         <ul className="dropdown-menu dropdown-submenu">
                                             <li><Link className="dropdown-item navcolor navcolor" to="certificate">Certificates</Link></li>
                                             <li><Link className="dropdown-item navcolor navcolor" to="awards">Trophy</Link></li>
-                                            <li><Link className="dropdown-item navcolor navcolor" to="#">Plaque</Link></li>
                                         </ul>
                                     </li>
                                     <li><Link className="dropdown-item navcolor navcolor" to="#">Stationary &raquo;</Link>
@@ -676,6 +675,7 @@ function Navbar() {
                             </li>
 
                             <li className="nav-item "><Link className="nav-link navcolor1" aria-current="page" to="about">About</Link></li>
+                            
 
 
                         </ul>

@@ -46,6 +46,9 @@ export default function About(){
                 <div className="col mt-4">
                     <img src="/images/about/step-6.PNG" alt="" width='100%'></img>
                 </div>
+                {/* <div className="col">
+                    <img src="/images/about/step-7.PNG" alt="" width='100%'></img>
+                </div> */}
             </div>
             <div className="row mt-3">
                 <div className="col">

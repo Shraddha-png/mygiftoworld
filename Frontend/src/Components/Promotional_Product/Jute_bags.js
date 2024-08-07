@@ -5,6 +5,7 @@ import Rating from "../Ratings";
 import LoadingBox from "../LoadingBox";
 import MessageBox from "../MessageBox";
 
+
 const reducer = (state, action) => {
     switch (action.type) {
         case 'FETCH_REQUEST':
@@ -26,6 +27,11 @@ function JuteBag() {
         error: '',
     });
    
+
+   
+	// const isLoggedIn = state.userInfo !== null; // Check if user is logged in
+   
+
    
     useEffect(() => {
         const fetchData = async () => {

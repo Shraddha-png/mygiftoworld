@@ -14,7 +14,7 @@ function TeachAcc() {
                         <div className="col-sm-3">
                             <div className="card p-4" style={{ width: '15 rem' }}>
                                 <Link to="/cardPenDrive">
-                                    <img className="card-img-top catimg" src="/images/Pen Drive/Usb_cards_on_a_wooden_surface_mockup.jpg" alt="Awards" height='390px' />
+                                    <img className="card-img-top catimg" src="/images/Pen-Drive/1 (13).jpg" alt="Awards" height='390px' />
                                 </Link>
                                 <hr />
                                 <div className="card-title catimg">

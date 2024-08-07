@@ -95,7 +95,7 @@ function TravelmugScreen() {
         }
         try {
             const { data } = await axios.post(
-                '/api/Trmugreviews',
+                '/api/trmugreviews',
                 {
                     rating: Number(rating),
                     title,
@@ -138,7 +138,7 @@ function TravelmugScreen() {
                             </li>
                             <li className="list-group-item inlineclass">
                                 <StarRating rating={travelmug.rating || 0} onRatingChange={onRatingChange} />
-                                <p>Review({travelmug.Trmugreviews.length})</p>
+                                <p>Review({travelmug.trmugreviews.length})</p>
                             </li>
                             <li className="list-group-item">
                                 Price : {isLoggedIn ? (

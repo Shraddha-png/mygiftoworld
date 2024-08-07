@@ -33,6 +33,18 @@ function Home() {
           <div className="carousel-item">
             <img className="d-block w-100" src="/images/Sliding/slide-9.jpg" alt="Website slide banner" />
           </div>
+          <div className="carousel-item">
+            <img className="d-block w-100" src="/images/Sliding/ID CARD SLIDE.jpg" alt="Website slide banner" />
+          </div>
+          <div className="carousel-item">
+            <img className="d-block w-100" src="/images/Sliding/name tag slide.jpg" alt="Website slide banner" />
+          </div>
+          <div className="carousel-item">
+            <img className="d-block w-100" src="/images/Sliding/glass tumbler slide.jpg" alt="Website slide banner" />
+          </div>
+          <div className="carousel-item">
+            <img className="d-block w-100" src="/images/Sliding/pen slide.jpg" alt="Website slide banner" />
+          </div>
         </div>
         <Link className="carousel-control-prev" to="#carouselExampleControls" role="button" data-bs-slide="prev">
           <span className="sr-only"></span>
@@ -193,7 +205,7 @@ function Home() {
               <div className="col-sm-3">
                 <div className="card proimg mt-3" style={{ width: '18 rem' }}>
                   <Link to="/sipper">
-                    <img className="card-img-top" src="/images/Sippers/Bottles & Sippers/download (13).jpeg" alt="Bottles"  />
+                    <img className="card-img-top" src="/images/Sippers/Glass-Bottles/Glass-Water-Bottle.jpeg" alt="Bottles"  />
                   </Link>
                   <div className="card-body">
                     <Link to="/sipper" className="proname">
@@ -205,7 +217,7 @@ function Home() {
               <div className="col-sm-3">
                 <div className="card proimg mt-3" style={{ width: '18 rem' }}>
                   <Link to="/keyChains">
-                    <img className="card-img-top" src="/images/Keychains/Metal keyChain/Llavero BACHMANN.jpeg" alt="Key Chains" />
+                    <img className="card-img-top" src="/images/Keychain/Wooden Keychai07.webp" alt="Key Chains" />
                   </Link>
                   <div className="card-body">
                     <Link to="/keyChains" className="proname">
@@ -232,7 +244,7 @@ function Home() {
               <div className="col-sm-3">
                 <div className="card proimg mt-3" style={{ width: '18 rem' }}>
                   <Link to="/Sticker">
-                    <img className="card-img-top" src="/images/Printing/sticker/Laptop Sticker Mockup PSD.jpeg" alt="Stickers"  />
+                    <img className="card-img-top" src="/images/Printing/sticker/sticker.webp" alt="Stickers"  />
                   </Link>
                   <div className="card-body">
                     <Link to="/Sticker" className="proname">

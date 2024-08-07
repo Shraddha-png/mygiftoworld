@@ -64,7 +64,7 @@ function Bags() {
                                     </Link>
                                     <div className="card-body">
                                         <Link to={`/bag/${bag.slug}`}>
-                                            <h4 className="card-title">{bag.name}</h4>
+                                            <p className="card-title">{bag.name}</p>
                                         </Link>
                                         <Rating rating={bag.rating} numReviews={bag.numReviews} />
                                         {isLoggedIn ? (
@@ -83,6 +83,109 @@ function Bags() {
                 )}
             </div>
 
+
+            {/* <div className="container-fluid">
+
+<div className="container-fluid p-0">
+    <div className="row mt-3">
+        <div className="col-sm-3">
+            <div className="card p-4" style={{ width: '15 rem' }}>
+                <Link to="/backpack">
+                    <img className="card-img-top catimg" src="/images/Bags/Bagpack/1pc 15_6 Inch Large Capacity Backpack Oxford Cloth Mens Backpack Lightweight Simple Travel Bag School Bag Business Laptop Bag Waterproof - Copy.jpeg" alt="Awards" height='390px' />
+                </Link>
+                <hr />
+                <div className="card-title">
+                    <Link to='/backpack'><h4 className="text-center categorybag">Bagpack</h4></Link>
+                </div>
+            </div>
+        </div>
+        <div className="col-sm-3">
+            <div className="card p-4" style={{ width: '15 rem' }}>
+                <Link to="/toteBag">
+                    <img className="card-img-top catimg" src="/images/Bags/Tote Bag.jpg" alt="Badges" height='390px' />
+                </Link>
+                <hr />
+                <div className="card-title">
+                    <Link to='/toteBag'><h4 className="text-center categorybag">Tote Bags</h4></Link>
+                </div>
+            </div>
+        </div>
+        <div className="col-sm-3">
+            <div className="card p-4" style={{ width: '15 rem' }}>
+                <Link to="/slingbag">
+                    <img className="card-img-top catimg" src="/images/bags and wallets/siling bags/Daylite Sling Umhängetasche.jpeg" alt="Bags" height='390px' />
+                </Link>
+                <hr />
+                <div className="card-title">
+                    <Link to='/slingbag'><h4 className="text-center categorybag">Slings Bags</h4></Link>
+                </div>
+            </div>
+        </div>
+        <div className="col-sm-3">
+            <div className="card p-4" style={{ width: '15 rem' }}>
+                <Link to="/travelbag">
+                    <img className="card-img-top catimg" src="/images/bags and wallets/travel bag/Bolsa De Viagem Modelo Expansiva.jpeg" alt="Bags" height='390px' />
+                </Link>
+                <hr />
+                <div className="card-title">
+                    <Link to='/travelbag'><h4 className="text-center categorybag">Travel Bags</h4></Link>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+<div className="container-fluid">
+
+<div className="container-fluid p-0">
+    <div className="row mt-3">
+        <div className="col-sm-3">
+            <div className="card p-4" style={{ width: '15 rem' }}>
+                <Link to="/schoolbag">
+                    <img className="card-img-top catimg" src="/images/bags and wallets/school bag/Temu｜Multi-pocket Nylon School Backpack For Women, High Capacity, Lightweight Backpack.jpeg" alt="Awards" height='390px' />
+                </Link>
+                <hr />
+                <div className="card-title">
+                    <Link to='/schoolbag'><h4 className="text-center categorybag">School Bags</h4></Link>
+                </div>
+            </div>
+        </div>
+        <div className="col-sm-3">
+            <div className="card p-4" style={{ width: '15 rem' }}>
+                <Link to="/nonwoven_bag">
+                    <img className="card-img-top catimg" src="/images/Bags/Nonwoven bags/Custom Laminated Totes Collection.jpeg" alt="Badges" height='390px' />
+                </Link>
+                <hr />
+                <div className="card-title">
+                    <Link to='/nonwoven_bag'><h4 className="text-center categorybag">Non Woven Bags</h4></Link>
+                </div>
+            </div>
+        </div>
+        <div className="col-sm-3">
+            <div className="card p-4" style={{ width: '15 rem' }}>
+                <Link to="/juteBag">
+                    <img className="card-img-top catimg" src="/images/Bags/White Jute Bag.jpg" alt="Bags" height='390px' />
+                </Link>
+                <hr />
+                <div className="card-title">
+                    <Link to='/juteBag'><h4 className="text-center categorybag">Jute Bags</h4></Link>
+                </div>
+            </div>
+        </div>
+        <div className="col-sm-3">
+            <div className="card p-4" style={{ width: '15 rem' }}>
+                <Link to="/wildcraft_bag">
+                    <img className="card-img-top catimg" src="/images/bags and wallets/wildcraft bag/Small Gym Bag, Workout Bag (Armygreen) _ Color_ Green_Tan _ Size_ Os.jpeg" alt="Bags" height='390px' />
+                </Link>
+                <hr />
+                <div className="card-title">
+                    <Link to='/wildcraft_bag'><h4 className="text-center categorybag">Wildcraft Bags</h4></Link>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div> */}
         </>
     );
 }

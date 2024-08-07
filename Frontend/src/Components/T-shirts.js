@@ -6,6 +6,7 @@ import Rating from "./Ratings";
 import LoadingBox from "./LoadingBox";
 import MessageBox from "./MessageBox";
 
+
 const reducer = (state, action) => {
     switch (action.type) {
         case 'FETCH_REQUEST':
@@ -25,7 +26,9 @@ function Tshirts() {
         loading: true,
         error: '',
     });
-  
+    
+
+
     useEffect(() => {
         const fetchData = async () => {
             dispatch({ type: 'FETCH_REQUEST' });
